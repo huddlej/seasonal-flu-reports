@@ -45,7 +45,7 @@ However, Bangladeshi strains from 159N cover 159N better than all other referenc
 ## Antigenic distances
 
 <div>
-    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-08-08-h3n2-antigenic-distances.png" />
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-08-08-h3n2-antigenic-distances.png" style="width: 100%" />
 </div>
 ```
 
@@ -66,6 +66,18 @@ The subclade with 166T and 186T has the highest LBI.
 # [H1N1pdm: 156K clade is most antigenically advanced](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h1n1pdm/ha/2y?branchLabel=aa&d=tree&l=scatter&m=div&p=full&scatterX=num_date&scatterY=cTiterSub)
 
 In contrast with the higher LBI of the 187A clade, the 156K clade has the highest antigenic advance by both substitution and tree models.
+
+# [H1N1pdm: Antigenic distances with cell-based HI data](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h1n1pdm/ha/2y)
+
+Most references cover 187A, but only Victoria/2570 covers 156K
+
+```auspiceMainDisplayMarkdown
+## Antigenic distances
+
+<div>
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-08-08-h1n1pdm-antigenic-distances.png" style="width: 100%" />
+</div>
+```
 
 # [Vic: Recent strains represent major clades](https://nextstrain.org/staging/flu/seasonal/2021-08-08/vic/ha/2y?d=tree,map&f_recency=last%20month&label=clade:V1A.3&p=grid)
 
@@ -90,3 +102,15 @@ The 150K subclade with 220M and 241Q has the highest LBI.
 # [Vic: 150K has the highest antigenic advance](https://nextstrain.org/staging/flu/seasonal/2021-08-08/vic/ha/2y?d=tree&l=scatter&label=clade:V1A.3/150K&p=full&scatterY=cTiterSub)
 
 The 150K clade has the highest antigenic advance. Specifically, the subclade with 144L and 203R has over 1.5 log2 titer increase over the 241Q subclade.
+
+# [Vic: Antigenic distances with cell-based HI data](https://nextstrain.org/staging/flu/seasonal/2021-08-08/vic/ha/2y)
+
+Nigeria/3352 and Brisbane/35 may cover both 150K and 133R, although there are few measurements between these references and test strains in 150K.
+
+```auspiceMainDisplayMarkdown
+## Antigenic distances
+
+<div>
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-08-08-vic-antigenic-distances.png" style="width: 100%" />
+</div>
+```
