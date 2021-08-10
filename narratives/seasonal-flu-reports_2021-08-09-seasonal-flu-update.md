@@ -36,6 +36,19 @@ In 2019, 137F strains picked up a 144N mutation and two of the most recently sub
 
 As expected by the LBI and antigenic advance values above, both forecasting models favor growth of 159N.
 
+# [H3N2: Antigenic distances with cell-based FRA data](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h3n2/ha/2y)
+
+Cambodian vaccine strain covers available 94N test viruses.
+However, Bangladeshi strains from 159N cover 159N better than all other reference strains.
+
+```auspiceMainDisplayMarkdown
+## Antigenic distances
+
+<div>
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-08-08-h3n2-antigenic-distances.png" />
+</div>
+```
+
 # [H1N1pdm: 187A dominates recent strains](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h1n1pdm/ha/2y?d=tree,map&f_recency=last%20month&p=grid)
 
 Of the 59 strains submitted in the last month, 57 are from 187A and two are from 183P-7. With these recent 183P-7 strains, all major pre-pandemic clades have been observed once since late 2020.
