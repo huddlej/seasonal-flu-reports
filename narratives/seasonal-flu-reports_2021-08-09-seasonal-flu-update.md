@@ -45,7 +45,7 @@ However, Bangladeshi strains from 159N cover 159N better than all other referenc
 ## Antigenic distances
 
 <div>
-    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-08-08-h3n2-antigenic-distances.png" style="width: 100%" />
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-08-08-h3n2-antigenic-distances.png" width="100%" />
 </div>
 ```
 
@@ -75,7 +75,7 @@ Most references cover 187A, but only Victoria/2570 covers 156K
 ## Antigenic distances
 
 <div>
-    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-08-08-h1n1pdm-antigenic-distances.png" style="width: 100%" />
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-08-08-h1n1pdm-antigenic-distances.png" width="100%" />
 </div>
 ```
 
@@ -111,6 +111,6 @@ Nigeria/3352 and Brisbane/35 may cover both 150K and 133R, although there are fe
 ## Antigenic distances
 
 <div>
-    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-08-08-vic-antigenic-distances.png" style="width: 100%" />
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-08-08-vic-antigenic-distances.png" width="100%" />
 </div>
 ```
