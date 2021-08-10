@@ -62,7 +62,7 @@ The 36 strains submitted in the last month represent V1A.3/133R (N=5, all from K
 
 Of the 19 strains in this cluster, a group of 15 and another of 3 are identical.
 
-# [Vic: A 165N insertion arose multiple times in China](https://nextstrain.org/staging/flu/seasonal/2021-08-08/vic/ha/2y?branchLabel=aa&c=gt-HA1_165&f_recency=last%20month&gt=HA1.122Q&p=grid)
+# [Vic: A 165N insertion arose multiple times in China](https://nextstrain.org/staging/flu/seasonal/2021-08-08/vic/ha/2y?d=tree,map&branchLabel=aa&c=gt-HA1_165&f_recency=last%20month&gt=HA1.122Q&p=grid)
 
 A 165N insertion appears to have arisen three independent times in China since late 2020.
 
