@@ -2,25 +2,25 @@
 title: Seasonal influenza update for August 9, 2021
 authors: John Huddleston
 date: "August 9, 2021"
-dataset: "https://nextstrain.org/staging/flu/seasonal/2021-08-08/h3n2/ha/2y"
+dataset: "https://nextstrain.org/staging/flu/seasonal/2021-08-08/h3n2/ha/2y?d=tree,map&f_recency=last%20month&p=grid"
 abstract: "Update on the evolution of seasonal influenza as of August 9, 2021."
 ---
 
-# [H3N2: 159N and 186S dominate recent submissions](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h3n2/ha/2y?f_recency=last%20month&p=grid)
+# [H3N2: 159N and 186S dominate recent submissions](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h3n2/ha/2y?d=tree,map&f_recency=last%20month&p=grid)
 
 Of 45 strains submitted in the last month, 28 strains are from 159N and 14 from 186S. Three are older strains from 137F with the most recent of these from New Zealand in December 2020.
 
 Recent 159N strains were sampled from Norway, Nepal, Australia, Singapore, and Kenya.
 
-# [H3N2: 156 mutations partition recent 159N strains](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h3n2/ha/2y?c=gt-HA1_156&dmin=2020-10-24&p=grid)
+# [H3N2: 156 mutations partition recent 159N strains](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h3n2/ha/2y?c=gt-HA1_156&d=tree,map&label=clade:A1b/159N&p=grid)
 
 Mutations at site HA1:156 partition recent 159N strains into three major groups with ancestral 156H circulating in the US, Europe, West Asia, South Asia, Singapore, and Kenya, 156S in Australia, the US, Russia, and Europe, and 156Q in Kenya, United Arab Emirates, and India.
 
-# [H3N2: 45T mutation frequency growing in 186S clade](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h3n2/ha/2y?c=gt-HA1_45&label=clade:A1b/186S&p=grid)
+# [H3N2: 45T mutation frequency growing in 186S clade](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h3n2/ha/2y?c=gt-HA1_45&d=tree,map&label=clade:A1b/186S&p=grid)
 
 A 45T mutation in the 186S clade is growing but only circulating in Timor-Leste and Australia currently.
 
-# [H3N2: Recently submitted 137F strains carry an additional 144T mutation](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h3n2/ha/2y?c=gt-HA1_144&f_recency=last%20month&p=grid)
+# [H3N2: Recently submitted 137F strains carry an additional 144T mutation](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h3n2/ha/2y?c=gt-HA1_144&d=tree,map&f_recency=last%20month&label=clade:A1b/137F&p=grid)
 
 In 2019, 137F strains picked up a 144N mutation and two of the most recently submitted 137F strains mutated again to 144T.
 
@@ -42,7 +42,7 @@ Of the 59 strains submitted in the last month, 57 are from 187A and two are from
 
 All of the recent 187A strains were collected in Togo while the two 183P-7 strains were collected in Norway.
 
-# [H1N1pdm: 166 and 186 mutations partition recent 187A strains](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h1n1pdm/ha/2y?c=gt-HA1_166,186,232&d=tree,map,entropy&dmin=2020-09-25&label=clade:6b1.A/187A&p=grid)
+# [H1N1pdm: 166 and 186 mutations partition recent 187A strains](https://nextstrain.org/staging/flu/seasonal/2021-08-08/h1n1pdm/ha/2y?c=gt-HA1_166,186,232&d=tree,map&dmin=2020-09-25&label=clade:6b1.A/187A&p=grid)
 
 Recent 187A strains in Togo predominantly carry 166T and 186T mutations. These mutations are also at high frequency in Ghana and Niger.
 
@@ -54,11 +54,11 @@ The subclade with 166T and 186T has the highest LBI.
 
 In contrast with the higher LBI of the 187A clade, the 156K clade has the highest antigenic advance by both substitution and tree models.
 
-# [Vic: Recent strains represent major clades](https://nextstrain.org/staging/flu/seasonal/2021-08-08/vic/ha/2y?f_recency=last%20month&label=clade:V1A.3)
+# [Vic: Recent strains represent major clades](https://nextstrain.org/staging/flu/seasonal/2021-08-08/vic/ha/2y?d=tree,map&f_recency=last%20month&label=clade:V1A.3&p=grid)
 
 The 36 strains submitted in the last month represent V1A.3/133R (N=5, all from Kenya), 150K (N=26 from Singapore, China, and Kenya), and V1A.3 (N=5, all from Kenya).
 
-# [Vic: Recent 150K strains from Singapore carry a 202V mutation](https://nextstrain.org/staging/flu/seasonal/2021-08-08/vic/ha/2y?branchLabel=aa&c=gt-HA1_202&f_recency=last%20month&gt=HA1.144L&m=div&p=grid)
+# [Vic: Recent 150K strains from Singapore carry a 202V mutation](https://nextstrain.org/staging/flu/seasonal/2021-08-08/vic/ha/2y?branchLabel=aa&c=gt-HA1_202&d=tree,map&f_recency=last%20month&gt=HA1.144L&m=div&p=grid)
 
 Of the 19 strains in this cluster, a group of 15 and another of 3 are identical.
 
@@ -66,7 +66,7 @@ Of the 19 strains in this cluster, a group of 15 and another of 3 are identical.
 
 A 165N insertion appears to have arisen three independent times in China since late 2020.
 
-# [Vic: Recent V1A.3 strains from Kenya carry multiple HA1 mutations](https://nextstrain.org/staging/flu/seasonal/2021-08-08/vic/ha/2y?branchLabel=aa&f_recency=last%20month&gt=HA1.75E&m=div&p=grid)
+# [Vic: Recent V1A.3 strains from Kenya carry multiple HA1 mutations](https://nextstrain.org/staging/flu/seasonal/2021-08-08/vic/ha/2y?branchLabel=aa&d=tree,map&f_recency=last%20month&gt=HA1.75E&m=div&p=grid)
 
 Recent V1A.3 strains from Kenya carry HA1 mutations including K75E, G230N, and I267V.
 
