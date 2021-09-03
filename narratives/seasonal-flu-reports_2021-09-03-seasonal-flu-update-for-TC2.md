@@ -6,15 +6,15 @@ dataset: "https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu
 abstract: "Seasonal influenza populations circulating since September 1, 2020 generally exhibit reduced numbers, strong geographic structure, convergent evolution, and HA/NA reassortment. Vaccine candidates for A/H1N1pdm and A/H3N2 target mutually exclusive clades within each subtype, complicating the process of selecting a single vaccine candidate per subtype. A/H3N2 egg-passaged candidates carry multiple amino acid mutations that dramatically reduce antigenicity. Two B/Vic candidates may cover all extant clades."
 ---
 
-# [Most H1N1pdm clades still exist](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi?d=map&f_epiweek=202036,202038,202039,202040,202041,202043,202044,202045,202046,202047,202049,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127&p=full&r=region&transmissions=hide)
+# [Most H1N1pdm clades still exist](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi?d=map&f_epiweek=202036,202038,202039,202040,202041,202043,202044,202045,202046,202047,202049,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127,202130,202131&p=full&r=region&transmissions=hide)
 
 We've observed most major pre-pandemic clades in the last year including 6b1.A/187A, 6b1.A/183P-5a, 6b1.A/156K, 6b1.A/183P-5b, and 6b1.A/183P-7.
 
-# [Most H1N1pdm data are from West Africa](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi?d=map&f_epiweek=202036,202038,202039,202040,202041,202043,202044,202045,202046,202047,202049,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127&f_region=Africa&label=clade:6b1.A/187A&p=full&transmissions=hide)
+# [Most H1N1pdm data are from West Africa](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi?d=map&f_epiweek=202036,202038,202039,202040,202041,202043,202044,202045,202046,202047,202049,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127,202130,202131&f_region=Africa&label=clade:6b1.A/187A&p=full&transmissions=hide)
 
-Of the 208 strains collected since September 1, 2020, 186 (89%) are from 6b1.A/187A and 178 (96%) of these are from West African countries including Côte d'Ivoire, Ghana, Niger, Nigeria, and Togo.
+Of the 222 strains collected since September 1, 2020, 195 (88%) are from 6b1.A/187A and 187 (96%) of these are from West African countries including Côte d'Ivoire, Ghana, Niger, Nigeria, and Togo.
 
-# [Three main clades dominate](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi?d=tree&f_epiweek=202036,202038,202039,202040,202041,202043,202044,202045,202046,202047,202049,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127&p=full)
+# [Three main clades dominate](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi?d=tree&f_epiweek=202036,202038,202039,202040,202041,202043,202044,202045,202046,202047,202049,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127,202130,202131&p=full)
 
 Most recent 187A strains belong to one of two subclades defined by mutations at HA1 positions 166 and 186.
 The subclade with HA1:I166T and HA1:A186T has circulated in all five represented West African countries and corresponds to half of recent 187A strains.
@@ -25,10 +25,10 @@ The other 187A subclade with the ancestral genotypes at sites 166 (I) and 186 (A
 Notably, the HA from this subclade has [reassorted with an NA (carrying a T16A mutation) from the 6b1.A/156K background](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi:/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/na/2y/cell/hi?d=tree&f_clade_membership=6b1.A/156K,6b1.A/186T,6b1.A/187A&p=full&transmissions=hide).
 An additional mutation at HA1:T232I appeared recently in this subclade in Togo.
 
-# [156K recently reemerged in India](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi?d=tree,map&f_clade_membership=6b1.A/156K&f_epiweek=202036,202038,202039,202040,202041,202043,202044,202045,202046,202047,202049,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127&m=div&p=grid)
+# [156K recently reemerged in India](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi?d=tree,map&f_clade_membership=6b1.A/156K&f_epiweek=202036,202038,202039,202040,202041,202043,202044,202045,202046,202047,202049,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127,202130,202131&m=div&p=grid)
 
 Most of the remaining A/H1N1pdm strains (N=17 or 8%) belong to 6b1.A/156K with observations in the United States, Ghana, China, Indonesia, New Zealand, and India.
-The most recent of these strains form a subclade circulating in India between May and July 2021 (N=11) and carry HA1:K54Q, A186T, Q189E, and E224A mutations.
+The most recent of these strains form a subclade circulating in India between May and August 2021 (N=16) and carry HA1:K54Q, A186T, Q189E, and E224A mutations.
 Within this subclade, another subclade carries HA1:R259K and K308R mutations.
 One strain from the United States, A/Iowa/2/2021, carries a notable mutation at HA1:K156Q.
 The recent reemergence of 156K strains in India suggests that A/H1N1pdm has continued to circulate and evolve locally.
