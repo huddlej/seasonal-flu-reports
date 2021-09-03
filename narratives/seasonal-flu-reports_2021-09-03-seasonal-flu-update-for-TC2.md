@@ -33,7 +33,7 @@ Within this subclade, another subclade carries HA1:R259K and K308R mutations.
 One strain from the United States, A/Iowa/2/2021, carries a notable mutation at HA1:K156Q.
 The recent reemergence of 156K strains in India suggests that A/H1N1pdm has continued to circulate and evolve locally.
 
-# [No candidates cover both 187A and 156K strains](https://nextstrain.org/who-2021-09/2021-08-26/h1n1pdm/ha/2y/cell/hi?d=tree&p=full)
+# [No candidates cover both 187A and 156K strains](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi)
 
 The previous vaccine strain, A/Hawaii/70/2019, and a more recent candidate strain from the 6b1.A/186T clade, A/Togo/881/2020, are antigenically well-matched to 6b1.A/187A viruses.
 However, recent viruses from 6b1.A/156K have ~5-fold reduced titers against sera from A/Hawaii/70/2019.
@@ -46,7 +46,7 @@ These sera effectively inhibit recent 6b1.A/156K strains but not 6b1.A/187A stra
 </div>
 ```
 
-# [Egg-passaged strains are qualitatively similar to cell-passaged strains](https://nextstrain.org/who-2021-09/2021-08-26/h1n1pdm/ha/2y/cell/hi?d=tree&p=full)
+# [Egg-passaged strains are qualitatively similar to cell-passaged strains](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/egg/hi)
 
 HI data for sera raised against egg-grown viruses look qualitatively similar.
 A clear exception is the egg-passaged strain of A/Togo/881/2020 that fails to produce sera that inhibit 187A strains.
@@ -108,7 +108,7 @@ These patterns indicate that major A/H3N2 clades have continued to circulate and
 As pandemic restrictions relax, these clades may reemerge and compete globally with the current dominant subclades of A1b/94N.
 Inter-continental travel volume will likely remain low through the 21/22 winter such that strong geographical differences might persist.
 
-# [H3N2 vaccine candidates don't cover both 94N subclades](https://nextstrain.org/who-2021-09/2021-08-26/h1n1pdm/ha/2y/cell/hi?d=tree&p=full)
+# [H3N2 vaccine candidates don't cover both 94N subclades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h3n2/ha/2y/cell/fra)
 
 Sera raised against both the Northern Hemisphere vaccine strain, A/Cambodia/e0826360/2020, and the Southern Hemisphere cell-grown vaccine strain, A/HongKong/45/2019, inhibit recently circulating strains from the A1b/94N subclade A1b/186S.
 Additionally, sera against A/HongKong/45/2019 appear to strongly inhibit recent strains from A1b/137F and A1b/186D.
@@ -141,7 +141,7 @@ A/HongKong/2671/2019 has HA1:T160I, G186V, and D225N mutations.
 A/Perth/20/2020 has HA1:T160K and S219Y mutations.
 These passage-related mutations appear to dramatically alter the antigenic profile of the original reference strains.
 
-# [H3N2 egg-passaged strains carry mutations that reduce antigenicity](https://nextstrain.org/who-2021-09/2021-08-26/h1n1pdm/ha/2y/cell/hi?d=tree&p=full)
+# [H3N2 egg-passaged strains carry mutations that reduce antigenicity](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h3n2/ha/2y/egg/fra)
 
 Unfortunately, none of the sera raised against egg-cultured strains effectively inhibit currently circulating strains from any clade.
 
@@ -182,7 +182,7 @@ Another subclade with HA1:T182A, D197E, and T221A mutations has circulated prima
 144L strains circulating outside of China (denoted by nucleotide mutation A1382G) have [reassorted with a NA from a separate V1A lineage from all other extant NAs](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi:who-2021-09/2021-08-26/vic/na/2y/cell/hi?d=tree&f_clade_membership=V1A.3/150K,V1A.3/220M,V1A.3/144L&p=full&transmissions=hide).
 These patterns are consistent with moderate geographic restrictions associated with the pandemic outside of China and much stronger restrictions between China and the rest of the world.
 
-# [One vaccine candidate may cover most extant 150K clades](https://nextstrain.org/who-2021-09/2021-08-26/h1n1pdm/ha/2y/cell/hi?d=tree&p=full)
+# [One vaccine candidate may cover most extant 150K clades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/na/2y/cell/hi)
 
 The current vaccine strain, B/Washington/2/2019, continues to effectively inhibit other V1A.3/133R strains but it weakly inhibits strains from V1A.3/220M and V1A.3/144L.
 Sera raised against B/Maryland/24/2019 produce a similar pattern.
@@ -196,7 +196,7 @@ Although there are only a few available measurements, sera against B/Victoria/21
 </div>
 ```
 
-# [One egg-passaged vaccine candidate may cover extant 150K clades](https://nextstrain.org/who-2021-09/2021-08-26/h1n1pdm/ha/2y/cell/hi?d=tree&p=full)
+# [One egg-passaged vaccine candidate may cover extant 150K clades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/na/2y/egg/hi)
 
 Antigenic distances for egg-passaged strains show similar patterns to cell-passaged strains.
 The egg-passaged B/Michigan/1/2021 appears to only cover V1A.3/144L strains, while the egg-passaged B/Sichuan-Jingyang/12048/2019 (the only candidate from V1A.3/220M) may cover strains from both clades.
