@@ -182,7 +182,7 @@ Another subclade with HA1:T182A, D197E, and T221A mutations has circulated prima
 144L strains circulating outside of China (denoted by nucleotide mutation A1382G) have [reassorted with a NA from a separate V1A lineage from all other extant NAs](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi:who-2021-09/2021-08-26/vic/na/2y/cell/hi?d=tree&f_clade_membership=V1A.3/150K,V1A.3/220M,V1A.3/144L&p=full&transmissions=hide).
 These patterns are consistent with moderate geographic restrictions associated with the pandemic outside of China and much stronger restrictions between China and the rest of the world.
 
-# [One vaccine candidate may cover most extant 150K clades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/na/2y/cell/hi)
+# [One vaccine candidate may cover most extant 150K clades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi)
 
 The current vaccine strain, B/Washington/2/2019, continues to effectively inhibit other V1A.3/133R strains but it weakly inhibits strains from V1A.3/220M and V1A.3/144L.
 Sera raised against B/Maryland/24/2019 produce a similar pattern.
@@ -196,7 +196,7 @@ Although there are only a few available measurements, sera against B/Victoria/21
 </div>
 ```
 
-# [One egg-passaged vaccine candidate may cover extant 150K clades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/na/2y/egg/hi)
+# [One egg-passaged vaccine candidate may cover extant 150K clades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/egg/hi)
 
 Antigenic distances for egg-passaged strains show similar patterns to cell-passaged strains.
 The egg-passaged B/Michigan/1/2021 appears to only cover V1A.3/144L strains, while the egg-passaged B/Sichuan-Jingyang/12048/2019 (the only candidate from V1A.3/220M) may cover strains from both clades.
