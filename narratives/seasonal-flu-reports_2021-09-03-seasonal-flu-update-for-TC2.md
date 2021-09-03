@@ -22,7 +22,7 @@ The other 187A subclade with the ancestral genotypes at sites 166 (I) and 186 (A
 
 # [187A's HA reassorted with 156K's NA in West Africa](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/na/2y/cell/hi?d=tree&f_clade_membership=6b1.A/156K,6b1.A/186T,6b1.A/187A&p=full&transmissions=hide)
 
-Notably, the HA from this subclade has [reassorted with an NA (carrying a T16A mutation) from the 6b1.A/156K background](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi:who-2021-09/2021-08-26/h1n1pdm/na/2y/cell/hi?d=tree&f_clade_membership=6b1.A/156K,6b1.A/186T,6b1.A/187A&p=full&transmissions=hide).
+Notably, the HA from this subclade has [reassorted with an NA (carrying a T16A mutation) from the 6b1.A/156K background](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi:/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/na/2y/cell/hi?d=tree&f_clade_membership=6b1.A/156K,6b1.A/186T,6b1.A/187A&p=full&transmissions=hide).
 An additional mutation at HA1:T232I appeared recently in this subclade in Togo.
 
 # [156K recently reemerged in India](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi?d=tree,map&f_clade_membership=6b1.A/156K&f_epiweek=202036,202038,202039,202040,202041,202043,202044,202045,202046,202047,202049,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127&m=div&p=grid)
@@ -179,7 +179,7 @@ Another subclade with HA1:T182A, D197E, and T221A mutations has circulated prima
 
 # [V1A.3/144L outside of China have reassorted HA and NA](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/na/2y/cell/hi?d=tree&f_epiweek=202036,202037,202040,202041,202042,202043,202044,202045,202046,202047,202048,202049,202050,202051,202052,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202117,202118,202119,202120,202121,202122,202123,202124,202125&p=full&transmissions=hide)
 
-144L strains circulating outside of China (denoted by nucleotide mutation A1382G) have [reassorted with a NA from a separate V1A lineage from all other extant NAs](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi:who-2021-09/2021-08-26/vic/na/2y/cell/hi?d=tree&f_clade_membership=V1A.3/150K,V1A.3/220M,V1A.3/144L&p=full&transmissions=hide).
+144L strains circulating outside of China (denoted by nucleotide mutation A1382G) have [reassorted with a NA from a separate V1A lineage from all other extant NAs](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi:/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/na/2y/cell/hi?d=tree&f_clade_membership=V1A.3/150K,V1A.3/220M,V1A.3/144L&p=full&transmissions=hide).
 These patterns are consistent with moderate geographic restrictions associated with the pandemic outside of China and much stronger restrictions between China and the rest of the world.
 
 # [One vaccine candidate may cover most extant 150K clades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi)
