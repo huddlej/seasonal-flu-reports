@@ -197,7 +197,7 @@ Another subclade with HA1:T182A, D197E, and T221A mutations has circulated prima
 144L strains circulating outside of China (denoted by nucleotide mutation A1382G) have [reassorted with a NA from a separate V1A lineage from all other extant NAs](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi:/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/na/2y/cell/hi?d=tree&f_clade_membership=V1A.3/150K,V1A.3/220M,V1A.3/144L&p=full&transmissions=hide).
 These patterns are consistent with moderate geographic restrictions associated with the pandemic outside of China and much stronger restrictions between China and the rest of the world.
 
-# [144L is the most antigenically advanced of extant clades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi?d=tree&l=scatter&p=full&scatterX=cTiter)
+# [144L is the most antigenically advanced of extant clades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi?d=tree&l=scatter&p=full&scatterX=cTiter&scatterY=cTiterSub)
 
 144L strains have the highest antigenic advance by both titer models (tree and substitition), with values ~1-2 log2 titers greater than 220M strains.
 
