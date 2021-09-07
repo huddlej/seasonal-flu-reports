@@ -197,13 +197,21 @@ Another subclade with HA1:T182A, D197E, and T221A mutations has circulated prima
 144L strains circulating outside of China (denoted by nucleotide mutation A1382G) have [reassorted with a NA from a separate V1A lineage from all other extant NAs](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi:/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/na/2y/cell/hi?d=tree&f_clade_membership=V1A.3/150K,V1A.3/220M,V1A.3/144L&p=full&transmissions=hide).
 These patterns are consistent with moderate geographic restrictions associated with the pandemic outside of China and much stronger restrictions between China and the rest of the world.
 
+# [144L is the most antigenically advanced of extant clades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi?d=tree&l=scatter&p=full&scatterX=cTiter)
+
+144L strains have the highest antigenic advance by both titer models (tree and substitition), with values ~1-2 log2 titers greater than 220M strains.
+
+# [220M has the highest LBI](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi?c=lbi&d=tree&p=full)
+
+As with H1N1pdm clades, Vic's clade with the highest LBI (220M) does not have the highest antigenic advance.
+
 # [One vaccine candidate may cover most extant 150K clades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/vic/ha/2y/cell/hi)
 
 The current vaccine strain, B/Washington/2/2019, continues to effectively inhibit other V1A.3/133R strains but it weakly inhibits strains from V1A.3/220M and V1A.3/144L.
 Sera raised against B/Maryland/24/2019 produce a similar pattern.
 A previous vaccine candidate from V1A.3/150K, B/RhodeIsland/1/2019, also fails to cover recent V1A.3/144L strains.
 Sera raised against strains from V1A.3/144L, including B/Michigan/1/2021, appear effective against strains from the same clade.
-Although there are only a few available measurements, sera against B/Victoria/2113/2019 seem to cover strains from both recent V1A.3/150K subclades.
+Although there are only a few available measurements, **sera against B/Victoria/2113/2019 seem to cover strains from both recent V1A.3/150K subclades**.
 
 ```auspiceMainDisplayMarkdown
 <div>
