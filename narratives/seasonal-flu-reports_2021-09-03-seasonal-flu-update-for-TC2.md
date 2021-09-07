@@ -118,6 +118,12 @@ These patterns indicate that major A/H3N2 clades have continued to circulate and
 As pandemic restrictions relax, these clades may reemerge and compete globally with the current dominant subclades of A1b/94N.
 Inter-continental travel volume will likely remain low through the 21/22 winter such that strong geographical differences might persist.
 
+# [Both titer- and LBI-based models forecast growth of 159N](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h3n2/ha/2y/cell/fra?l=scatter&regression=show&scatterX=weighted_distance_to_future_by_cTiter_x-ne_star&scatterY=weighted_distance_to_future_by_ne_star-lbi)
+
+Both models predict that 159N strains the closest representatives of future H3N2 populations.
+These predictions represent higher antigenic advance and higher LBI of 159N strains compared to other clades.
+[See the same view of H3N2 on Nextstrain for frequency projections](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h3n2/ha/2y/cell/fra?d=tree,frequencies&l=scatter&p=full&regression=show&scatterX=weighted_distance_to_future_by_cTiter_x-ne_star&scatterY=weighted_distance_to_future_by_ne_star-lbi).
+
 # [H3N2 vaccine candidates don't cover both 94N subclades](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h3n2/ha/2y/cell/fra)
 
 Sera raised against both the Northern Hemisphere vaccine strain, A/Cambodia/e0826360/2020, and the Southern Hemisphere cell-grown vaccine strain, A/HongKong/45/2019, inhibit recently circulating strains from the A1b/94N subclade A1b/186S.
