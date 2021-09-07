@@ -52,7 +52,7 @@ These sera effectively inhibit recent 6b1.A/156K strains but not 6b1.A/187A stra
 
 ```auspiceMainDisplayMarkdown
 <div>
-    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-09-03-antigenic_distances_between_strains_who_h1n1pdm_ha_2y_cell_hi.png" width="100%" />
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-09-07-antigenic_distances_between_strains_who_h1n1pdm_ha_2y_cell_hi.png" width="100%" />
 </div>
 ```
 
@@ -65,7 +65,7 @@ Covering 6b1.A/187A and 6b1.A/156K viruses appears to be mutually exclusive.
 
 ```auspiceMainDisplayMarkdown
 <div>
-    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-09-03-antigenic_distances_between_strains_who_h1n1pdm_ha_2y_egg_hi.png" width="100%" />
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-09-07-antigenic_distances_between_strains_who_h1n1pdm_ha_2y_egg_hi.png" width="100%" />
 </div>
 ```
 
@@ -142,7 +142,7 @@ These patterns suggest that covering A1b/159N and other circulating clades may b
 
 ```auspiceMainDisplayMarkdown
 <div>
-    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-09-03-antigenic_distances_between_strains_who_h3n2_ha_2y_cell_fra.png" width="100%" />
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-09-07-antigenic_distances_between_strains_who_h3n2_ha_2y_cell_fra.png" width="100%" />
 </div>
 ```
 
@@ -163,7 +163,7 @@ Unfortunately, none of the sera raised against egg-cultured strains effectively 
 
 ```auspiceMainDisplayMarkdown
 <div>
-    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-09-03-antigenic_distances_between_strains_who_h3n2_ha_2y_egg_fra.png" width="100%" />
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-09-07-antigenic_distances_between_strains_who_h3n2_ha_2y_egg_fra.png" width="100%" />
 </div>
 ```
 
@@ -215,7 +215,7 @@ Although there are only a few available measurements, **sera against B/Victoria/
 
 ```auspiceMainDisplayMarkdown
 <div>
-    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-09-03-antigenic_distances_between_strains_who_vic_ha_2y_cell_hi.png" width="100%" />
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-09-07-antigenic_distances_between_strains_who_vic_ha_2y_cell_hi.png" width="100%" />
 </div>
 ```
 
@@ -228,6 +228,6 @@ However, if V1A.3/220M remains limited to circulation in China and Russia, a can
 
 ```auspiceMainDisplayMarkdown
 <div>
-    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-09-03-antigenic_distances_between_strains_who_vic_ha_2y_egg_hi.png" width="100%" />
+    <img src="https://raw.githubusercontent.com/huddlej/seasonal-flu-reports/main/figures/2021-09-07-antigenic_distances_between_strains_who_vic_ha_2y_egg_hi.png" width="100%" />
 </div>
 ```
