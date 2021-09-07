@@ -33,6 +33,16 @@ Within this subclade, another subclade carries HA1:R259K and K308R mutations.
 One strain from the United States, A/Iowa/2/2021, carries a notable mutation at HA1:K156Q.
 The recent reemergence of 156K strains in India suggests that A/H1N1pdm has continued to circulate and evolve locally.
 
+# [156K is most antigenically advanced](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi?d=tree&f_epiweek=202036,202038,202039,202040,202041,202043,202044,202045,202046,202047,202049,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127,202130,202131&l=scatter&p=full&scatterX=cTiterSub&scatterY=cTiter)
+
+Both titer models (tree and substitution) identify 156K as more antigenically advanced than other 187A and 186T.
+The US strains with HA1:G155E and A187S mutations are most advanced of the non-156K strains.
+
+# [187A and its subclades have the highest LBI](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi?c=lbi&d=tree&f_epiweek=202036,202038,202039,202040,202041,202043,202044,202045,202046,202047,202049,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127,202130,202131&p=full)
+
+187A and 186T have the highest LBI, despite their lower antigenic advance than 156K.
+This mismatch between ferret HI and LBI could indicate a mismatch between human and naive ferret immunity. 
+
 # [No candidates cover both 187A and 156K strains](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-09-03/h1n1pdm/ha/2y/cell/hi)
 
 The previous vaccine strain, A/Hawaii/70/2019, and a more recent candidate strain from the 6b1.A/186T clade, A/Togo/881/2020, are antigenically well-matched to 6b1.A/187A viruses.
