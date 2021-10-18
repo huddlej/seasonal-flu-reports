@@ -3,7 +3,7 @@ title: Seasonal influenza circulation as of October 14, 2021
 authors: John Huddleston
 date: "October 18, 2021"
 dataset: "https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-10-14/h1n1pdm/ha/2y?d=tree&p=full"
-abstract: "Seasonal influenza populations circulating since September 1, 2020 generally exhibit reduced numbers, strong geographic structure, convergent evolution, and HA/NA reassortment. Vaccine candidates for A/H1N1pdm and A/H3N2 target mutually exclusive clades within each subtype, complicating the process of selecting a single vaccine candidate per subtype. A/H3N2 egg-passaged candidates carry multiple amino acid mutations that dramatically reduce antigenicity. Two B/Vic candidates may cover all extant clades."
+abstract: "Seasonal influenza populations circulating since September 1, 2020 generally exhibit reduced numbers, strong geographic structure, convergent evolution, and HA/NA reassortment."
 ---
 
 # [Most H1N1pdm clades still exist](https://nextstrain.org/community/huddlej/seasonal-flu-reports@main/flu/seasonal/2021-10-14/h1n1pdm/ha/2y?d=map&f_epiweek=202036,202038,202039,202040,202041,202043,202044,202045,202046,202047,202049,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127,202129,202130,202131,202132,202134,202135&p=full&transmissions=hide)
