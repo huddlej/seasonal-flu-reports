@@ -16,7 +16,7 @@ A1b/137F strains are both from France.
 
 These include clusters in the USA, Russian, the Netherlands and Spain.
 
-# [A large cluster in Maryland comprises a third of recent A1b/159N strains](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-10-28/h3n2/ha/2y?branchLabel=aa&c=country&d=tree,map&f_country=Usa&f_recency=last%20week,last%20month&m=div&p=full)
+# [A large cluster in Maryland comprises a third of recent A1b/159N strains](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-10-28/h3n2/ha/2y?branchLabel=aa&c=country&d=tree&f_country=Usa&f_recency=last%20week,last%20month&m=div&p=full)
 
 The Maryland cluster (N=48) derives from the 156S+D53G subclade of A1b/159N and has picked up additional HA1 mutations including L157I and S262N.
 One strain has a F79L mutation.
@@ -34,20 +34,22 @@ One strain has an RBS-adjacent mutation at HA1:S145R.
 Another large cluster (N=28) in the Netherlands consists of mostly identical strains with 6 closely related strains collected in Spain.
 Closely related strains from Nepal and Australia suggest more widespread travel connections than in previous data
 
-# [Recent A1b/186S strains originate in Laos and Thailand](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-10-28/h3n2/ha/2y?c=gt-HA1_140&d=tree,map,entropy&f_recency=last%20month,last%20week&label=clade:A1b/186S&m=div&p=grid)
+# [Recent A1b/186S strains originate in Laos and Thailand](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-10-28/h3n2/ha/2y?c=gt-HA1_140&d=tree,map&f_recency=last%20month,last%20week&label=clade:A1b/186S&m=div&p=grid)
 
 Two strains from Laos have a I140K mutation.
 No other notable mutations appear in recent A1b/186S strains.
 
-# [HA1:50K mutation in recent A1b/137F strains has occurred multiple times independently](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-10-28/h3n2/ha/2y?d=tree,map,entropy&f_epiweek=202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202118,202119,202120,202121,202122,202123,202124,202125,202126,202127,202128,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202101&gt=HA1.50K&p=grid)
+# [HA1:50K mutation in recent A1b/137F strains has occurred multiple times independently](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-10-28/h3n2/ha/2y?d=tree,map&f_epiweek=202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202118,202119,202120,202121,202122,202123,202124,202125,202126,202127,202128,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202101&gt=HA1.50K&p=grid)
 
 The HA1:E50K mutation observed in the two recent A1b/137F strains has occurred multiple times independently in the last year.
 
 # [A1b/159N subclade with 156S has the highest LBI](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-10-28/h3n2/ha/2y?c=lbi&d=tree&p=full)
 
+The 156S subclade has an LBI of 1.0.
+
 # [A1b/159N subclade with 156S is most antigenically advanced](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-10-28/h3n2/ha/2y?c=cTiterSub&d=tree&p=full)
 
-# [HA1:261Q mutation is associated with highest antigenic advance](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-10-28/h3n2/ha/2y?c=cTiterSub&d=tree&gt=HA1.261Q&p=full)
+# [HA1:261Q mutation is associated with higher antigenic advance](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-10-28/h3n2/ha/2y?c=cTiterSub&d=tree&gt=HA1.261Q&p=full)
 
 261Q has occurred many times in the last decade including most recently in West Africa and India.
 This site is one of the Wolf et al. epitope positions.
