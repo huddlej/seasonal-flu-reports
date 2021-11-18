@@ -2,8 +2,7 @@
 title: Seasonal influenza circulation as of November 18, 2021
 authors: John Huddleston
 date: "November 18, 2021"
-dataset: "https://nextstrain.org/flu/seasonal/h3n2/ha/5y"
-#dataset: "https://nextstrain.org/flu/seasonal/h3n2/ha/2y?d=tree,map&f_recency=last%20week,last%20month&p=grid"
+dataset: "https://nextstrain.org/flu/seasonal/h3n2/ha/2y?d=tree,map&f_recency=last%20week,last%20month&p=grid"
 abstract: ""
 ---
 
