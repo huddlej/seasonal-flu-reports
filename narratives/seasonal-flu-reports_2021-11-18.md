@@ -27,3 +27,7 @@ These two strains appear in Oman with three novel amino acid mutations in HA1.
 # [Both forecasting models predict success of A1b/159N](https://nextstrain.org/flu/seasonal/h3n2/ha/2y?d=tree,frequencies&l=scatter&p=full&regression=show&scatterX=weighted_distance_to_future_by_cTiter_x-ne_star&scatterY=weighted_distance_to_future_by_ne_star-lbi)
 
 Local branching index slightly prefers most recent strains with rapid growth.
+
+# [Looking at 5 years of H3N2 evolution](https://nextstrain.org/flu/seasonal/h3n2/ha/5y)
+
+Looking at 5 years of H3N2 evolution.
