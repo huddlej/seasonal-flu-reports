@@ -23,3 +23,7 @@ These two strains appear in Oman with three novel amino acid mutations in HA1.
 # [156S appears to drive A1b/159N antigenic advance](https://nextstrain.org/flu/seasonal/h3n2/ha/2y?branchLabel=aa&c=cTiterSub&d=tree,map&label=clade:A1b/159N&m=div&p=grid)
 
 156S is associated with an increase of ~2-3 log2 titers of antigenic advance based on ferret HI data.
+
+# [Both forecasting models predict success of A1b/159N](https://nextstrain.org/flu/seasonal/h3n2/ha/2y?d=tree,frequencies&l=scatter&p=full&regression=show&scatterX=weighted_distance_to_future_by_cTiter_x-ne_star)
+
+Local branching index slightly prefers most recent strains with rapid growth.
