@@ -89,7 +89,7 @@ These three countries have also experienced recent H3N2 circulation.
 Ferret HI data continue to support A5a.2 as antigenically advanced.
 Interestingly, none of the recent HA1 mutations observed in India and Bangladesh carry any additional antigenic weight from the titer substitution model.
 
-# [A5a.2 also has the highest LBI](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-11-25/h1n1pdm/ha/2y?c=lbi&d=tree,map&p=full)
+# [A5a.2 also has the highest LBI](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-11-25/h1n1pdm/ha/2y?c=lbi&d=tree&p=full)
 
 These higher LBI values map to the most recent strains from India and Bangladesh.
 
@@ -98,7 +98,7 @@ These higher LBI values map to the most recent strains from India and Bangladesh
 3a2 represents 78% of recent B/Vic strains.
 V1A.3 remains steady while 3a1 appears to decline while limited to circulation in China.
 
-# [Recently submitted Vic data are from 3a1 and V1A.3](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-11-25/vic/ha/2y?d=tree,map&f_recency=last%20week,last%20month&p=grid)
+# [Recently submitted Vic data are from 3a2 and V1A.3](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-11-25/vic/ha/2y?d=tree,map&f_recency=last%20week,last%20month&p=grid)
 
 91 B/Victoria strains were submitted in the last month.
 54 of these descend from 3a2, none are from 3a1, and 37 are from V1A.3.
