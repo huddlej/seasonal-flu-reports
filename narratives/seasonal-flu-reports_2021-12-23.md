@@ -3,7 +3,7 @@ title: Seasonal influenza circulation as of December 23, 2021
 authors: John Huddleston
 date: "December 27, 2021"
 dataset: "https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-12-27/h3n2/ha/2y/cell/fra?d=tree,map&f_recency=last%20week,last%20month&p=grid"
-abstract: “Recent submissions from Brazil show circulation of all three major lineages since the start of the pandemic. H3N2 strains from a recent Michigan outbreak were previously missing from analyses because they only have HA (instead of HA and NA). The titer substitution model based on FRA data for H3N2 suggest that the HA1:53G subclade may be slightly antigenically advanced even relative to its ancestors carrying HA1:156S.“
+abstract: "Recent submissions from Brazil show circulation of all three major lineages since the start of the pandemic. H3N2 strains from a recent Michigan outbreak were previously missing from analyses because they only have HA (instead of HA and NA). The titer substitution model based on FRA data for H3N2 suggest that the HA1:53G subclade may be slightly antigenically advanced even relative to its ancestors carrying HA1:156S."
 ---
 
 # [Recent H3N2 circulation](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2021-12-27/h3n2/ha/2y/cell/fra?d=tree,map&f_recency=last%20week,last%20month&p=grid)
