@@ -28,6 +28,7 @@ The majority of these strains and those from subsequent transmission in the USA 
 
 # [Recent FRA data detect a slight antigenic advance for 53G over 53N](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h3n2/ha/2y/cell/fra?branchLabel=aa&c=cTiterSub&d=tree&f_epiweek=202050,202051,202052,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202118,202119,202120,202121,202122,202123,202124,202125,202126,202127,202128,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202202&label=clade:3C.2a1b.2a.2&m=div&p=full&r=division)
 
+Measurements from focus reduction assays (FRAs) in ferrets suggest that 53G is slightly more antigenically advanced than 53N.
 Although the primary antigenic advance for recent 2a.2 strains corresponds to the 156S subclade (with an antigenic advance of 5.42 log2 titers from the root compared to 4.26 for its immediate ancestor), the 53G subclade has a slightly higher advance of 6.15 log2 titers.
 
 # [Multiple subclades of 2a.2’s 156S clade have high local branching index](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h3n2/ha/2y/cell/fra?branchLabel=aa&c=lbi&d=tree&label=clade:3C.2a1b.2a.2&m=div&p=full)
@@ -79,8 +80,37 @@ It has since been observed in 9 additional countries including the USA, Sweden, 
 
 # [5a.2 is more antigenically advanced than 5a.1](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h1n1pdm/ha/2y/cell/hi?c=cTiterSub&d=tree&f_epiweek=202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202126,202127,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202125&p=full&tl=division)
 
-Measurements from focus reduction assays (FRAs) in ferrets suggest that 5a.2 is more antigenically advanced than 5a.1.
+Measurements from hemagglutination inhibition (HI) assays in ferrets suggest that 5a.2 is more antigenically advanced than 5a.1.
 
 # [5a.2 has the highest local branching index of recent clades, too](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h1n1pdm/ha/2y/cell/hi?c=lbi&d=tree&f_epiweek=202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201)
 
 The high LBI of the recent 5a.2 subclade further indicates its recent success and potential for future success.
+
+# [Recent B/Victoria circulation is highly structured geographically](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/vic/ha/2y/cell/hi?d=tree,map,frequencies&f_epiweek=202050,202051,202052,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202117,202118,202119,202120,202121,202122,202123,202124,202125,202126,202127,202128,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151&p=grid)
+
+Two subclades, V1A.3a.1 and V1A.3a.2, comprise recent V1A.3a strains.
+V1A.3a.1 is characterized by a HA1:V220M and has circulated almost entirely in China for the last year.
+V1A.3a.2 is characterized by a HA1:P144L mutation and has diverged into two distinct subclades.
+The first V1A.3a.2 subclade carries a HA1:H122Q mutation and has only circulated in China for the last year, along with V1A.3a.1.
+The second V1A.3a.2 subclade has reassorted its HA with an NA from a highly divergent background.
+
+# [HA from a subclade of 3a.2 has reassorted with NA from a divergent background](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/vic/ha/2y/cell/hi:community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/vic/na/2y/cell/hi?c=gt-nuc_487,1806&d=tree&f_epiweek=202050,202051,202052,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202117,202118,202119,202120,202121,202122,202123,202124,202125,202126,202127,202128,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151&label=clade:V1A.3&p=full&r=division)
+
+This reassorted subclade has circulated in every major region except South America.
+
+# [Circulation in China is separate from the rest of the world](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/vic/ha/2y/cell/hi?d=tree,map&f_epiweek=202050,202051,202052,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202117,202118,202119,202120,202121,202122,202123,202124,202125,202126,202127,202128,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151&f_region=China&p=grid&r=division)
+
+The clade 3a.1 only appears in China, along with a major subclade of 3a.2.
+Clades in China appear similarly distributed geographically across most divisions.
+
+# [Circulation in the United States is highly structured](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/vic/ha/2y/cell/hi?d=tree,map&f_country=Usa&f_epiweek=202050,202051,202052,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202117,202118,202119,202120,202121,202122,202123,202124,202125,202126,202127,202128,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151&p=grid&r=division)
+
+In contrast to China, strains in the United States from different clades rarely circulate within the same state.
+
+# [3a.2 is more antigenically advanced than 3a.1](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/vic/ha/2y/cell/hi?c=cTiterSub&d=tree&f_epiweek=202050,202051,202052,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202117,202118,202119,202120,202121,202122,202123,202124,202125,202126,202127,202128,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151&p=full)
+
+Measurements from hemagglutination inhibition (HI) assays in ferrets suggest that 5a.2 is more antigenically advanced than 5a.1.
+
+# [3a.2 also has the highest local branching index](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/vic/ha/2y/cell/hi?c=lbi&d=tree&f_epiweek=202050,202051,202052,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202117,202118,202119,202120,202121,202122,202123,202124,202125,202126,202127,202128,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151&p=full)
+
+A subclade of 3a.2 denoted by a HA1:202V mutation has the highest LBI of recently circulating clades.
