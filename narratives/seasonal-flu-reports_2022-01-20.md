@@ -3,12 +3,20 @@ title: Seasonal influenza circulation as of January 20, 2022
 authors: John Huddleston
 date: "January 24, 2022"
 dataset: "https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h3n2/ha/2y/cell/fra?d=tree&f_epiweek=202050,202051,202052,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202118,202119,202120,202121,202122,202123,202124,202125,202126,202127,202128,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202202&p=full&r=division"
-abstract: "All three major lineages except B/Yamagata have been observed since the start of the pandemic. A/H3N2 largely consists of one, globally distributed clade (2a.2). The recent Southern Hemisphere vaccine strain, A/Darwin/6/2021, is highly representative, but its egg-passaged strain is likely antigenicaly mismatched due to passaging mutations. Two main A/H1N1pdm clades, 5a.1 and 5a.2, have circulated in different regions globally at similar frequencies despite 5a.2's greater antigenic advance. Current H1N1pdm vaccine strains are well-matched to recent strains. Of three main B/Victoria clades, only 3a.2 has circulated broadly. Both 3a.1 and subclade of 3a.2 remain limited to circulation in China. The recent Southern Hemisphere vaccine strain, B/Austria/1359417/2021, is well-matched to recent globally-distributed 3a.2 strains."
+abstract: "All three major lineages except B/Yamagata have been observed since the start of the pandemic. A/H3N2 largely consists of one, globally distributed clade (2a.2). The recent Southern Hemisphere vaccine strain, A/Darwin/6/2021, is highly representative, but its egg-passaged strain is likely antigenically mismatched due to passaging mutations. Two main A/H1N1pdm clades, 5a.1 and 5a.2, have circulated in different regions globally at similar frequencies despite 5a.2's greater antigenic advance. Current H1N1pdm vaccine strains are well-matched to recent strains. Of three main B/Victoria clades, only 3a.2 has circulated broadly. Both 3a.1 and a subclade of 3a.2 remain limited to circulation in China. The recent Southern Hemisphere vaccine strain, B/Austria/1359417/2021, is well-matched to recent globally-distributed 3a.2 strains."
 ---
 
 # [2a.2 dominates global H3N2 circulation](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h3n2/ha/2y/cell/fra?d=tree,map&f_epiweek=202050,202051,202052,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202118,202119,202120,202121,202122,202123,202124,202125,202126,202127,202128,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202202&p=grid&r=division)
 
-Of the 849 strains collected since December 1, 2020, 712 (84%) were from 3C.2a1b.2a.2, 57 (7%) were from 3C.2a1b.2a.1, 51 (6%) were from 3C.2a1b.1a, 22 (3%) were from 3C.2a1b.1b, three were from 3C.3a1, and two were from 3C.2a1b.1.
+Of the 849 strains collected since December 1, 2020:
+
+ - 712 (84%) were from 3C.2a1b.2a.2
+ - 57 (7%) were from 3C.2a1b.2a.1
+ - 51 (6%) were from 3C.2a1b.1a
+ - 22 (3%) were from 3C.2a1b.1b
+ - three were from 3C.3a1
+ - two were from 3C.2a1b.1
+
 All A/H3N2 strains observed in the last year except one have mutated to HA1:193S and most (N=821 or 97%) have accumulated a mutation at site HA1:186 from the ancestral genotype (G) to D or S.
 
 # [2a.2 subclade with HA1:156S has split on HA1:53 mutations with geographic structure](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h3n2/ha/2y/cell/fra?branchLabel=aa&c=gt-HA1_53,156&d=tree,map,frequencies&f_epiweek=202050,202051,202052,202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202116,202118,202119,202120,202121,202122,202123,202124,202125,202126,202127,202128,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202202&gt=HA1.156S&label=clade:3C.2a1b.2a.2&p=grid&r=division)
