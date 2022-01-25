@@ -46,3 +46,41 @@ The slight antigenic advance of 53G suggested by the titer substitution model do
 # [Common mutations associated with egg-passaging may cause antigenic mismatch with circulating strains](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h3n2/ha/2y/egg/fra?branchLabel=aa&d=tree&label=clade:3C.2a1b.2a&m=div&p=full&s=A/Bangladesh/3005/2020,A/Bangladesh/3005/2020-egg,A/Cambodia/e0826360/2020,A/Cambodia/e0826360/2020-egg,A/Darwin/6/2021,A/Darwin/6/2021-egg,A/Darwin/9/2021,A/Darwin/9/2021-egg,A/Michigan/173/2020,A/Michigan/173/2020-egg,A/Tasmania/503/2020,A/Tasmania/503/2020-egg)
 
 These strains carry egg-passaging mutations, including 160K, 183Y, 186N or V or R, 219Y, 225G, that appear to dramatically alter the antigenic profile of the original reference strains.
+
+# [H1N1pdm circulation has been dominated by 5a.1 and 5a.2](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h1n1pdm/ha/2y/cell/hi?d=tree,map,frequencies&f_epiweek=202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202126,202127,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202125&p=grid&r=division)
+
+Both 6B.1A.5a.1 and 6B.1A.5a.2 dominated in the last year, remaining at similar global frequencies during this time.
+Interestingly, 6B.1A.7 reemerged at the beginning of the year in Norway, and 6B.1A.1 reemerged in the United States in September 2021.
+These two older clades had not been previously observed for over a year, suggesting that they have continued to circulate undetected in these countries.
+
+# [H1N1pdm clades exhibit strong geographic structure](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h1n1pdm/ha/2y/cell/hi?d=map&f_epiweek=202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202126,202127,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202125&p=full&r=division)
+
+H1N1pdm clades exhibit strong geographic structure globally with the exception of Iowa in the United States, Sweden, and India where strains from multiple clades have been observed.
+In early 2021, 6B.1A.5a.1 was primarily detected in West Africa including Togo, Niger, Nigeria, Cote d'Ivoire, and Ghana.
+Since then, strains from this clade have been sampled in 11 other countries in 6 of 10 major regions.
+
+# [5a.1 from Africa comprise 196 (66%) of H1N1pdm strains in the last year](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h1n1pdm/ha/2y/cell/hi?%3Fd=tree,map,frequencies&d=tree,map&f_clade_membership=6B.1A.5a.1&f_epiweek=202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202126,202127,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202125&f_region=Africa&p=grid&r=division)
+
+# [5a.1 has diverged into two major subclades, one with HA1:166T and 186T mutations](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h1n1pdm/ha/2y/cell/hi?%3Fd=tree,map,frequencies&branchLabel=aa&c=gt-HA1_166,186&d=tree,map&f_clade_membership=6B.1A.5a.1&f_epiweek=202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202126,202127,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202125&label=clade:6B.1A.5a.1&p=grid&r=division)
+
+5a.1 has diverged into a subclade with HA1:166T and 186T mutations and another major subclade where the HA reassorted with an NA more closely related to 6B.1A.5a.2's.
+The 166T/186T subclade has not been observed outside of West Africa or at all since late July, 2021.
+Interestingly, the 166T mutation emerged independently in Colombia without the 186T mutation but with an additional 187S mutation.
+
+# [HA from one 5a.1 subclade reassorted with NA from 5a.2's background](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h1n1pdm/ha/2y/cell/hi:/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h1n1pdm/na/2y/cell/hi?c=gt-nuc_899,1250,1310&d=tree&f_epiweek=202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201&p=full)
+
+Unlike the 166T/186T subclade, the reassorted subclade has spread throughout Africa, Europe, and the United States.
+
+# [5a.2 reemerged in the last year and spread to at least 10 countries](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h1n1pdm/ha/2y/cell/hi?branchLabel=aa&c=country&d=tree,map&f_epiweek=202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202126,202127,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202125&label=clade:6B.1A.5a.2&p=grid&tl=country)
+
+A major subclade of 6B.1A.5a.2 reemerged in India in late 2020, after over a year without observations, with mutations at HA1:K54Q, A186T, Q189E, and E224A.
+Initially, this clade primarily circulated in India and Bangladesh.
+It has since been observed in 9 additional countries including the USA, Sweden, Denmark, Romania, Oman, the United Arab Emirates, Bahrain, and Australia.
+
+# [5a.2 is more antigenically advanced than 5a.1](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h1n1pdm/ha/2y/cell/hi?c=cTiterSub&d=tree&f_epiweek=202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202126,202127,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202125&p=full&tl=division)
+
+Measurements from focus reduction assays (FRAs) in ferrets suggest that 5a.2 is more antigenically advanced than 5a.1.
+
+# [5a.2 has the highest local branching index of recent clades, too](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-01-20/h1n1pdm/ha/2y/cell/hi?c=lbi&d=tree&f_epiweek=202053,202101,202102,202103,202104,202105,202106,202107,202108,202109,202110,202111,202112,202113,202114,202115,202117,202118,202120,202121,202122,202123,202124,202125,202126,202127,202129,202130,202131,202132,202133,202134,202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201)
+
+The high LBI of the recent 5a.2 subclade further indicates its recent success and potential for future success.
