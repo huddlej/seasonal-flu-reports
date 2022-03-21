@@ -30,3 +30,16 @@ Although forecasts from FRA- and LBI-based models strongly agree across all clad
 The FRA-based model slighly prefers 53G strains, as seen in by the tips above the regression line and the higher projected frequencies of these strains.
 These predictions are likely driven by the high antigenic advance of the 104G/276R subclade that is itself driven by a handful of measurements from A/Maryland/2/2021.
 The LBI-based model slightly prefers 53N strains, as seen by the tips below the regression line.
+
+# [Recent H1N1pdm circulation](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-03-21/h1n1pdm/ha/2y/cell/hi?d=tree,map,frequencies&f_recency=last%20month,last%20week&p=grid)
+Of 82 strains submitted in the last month, most (N=69 or 84%) originate from 5a.1 in Europe and Africa.
+The remaining 13 strains map to 5a.2 in Europe, West Asia, and South Asia.
+All strains in Africa belong to a 5a.1 subclade with a 113K mutation.
+This clade also carries recurrent 152I mutations in Niger and South Africa.
+The same 152I mutation also appears in a Bangladeshi subclade of 5a.2.
+
+# [5a.2 subclade with 54Q, 186T, etc. remains antigenically advanced](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-03-21/h1n1pdm/ha/2y/cell/hi?branchLabel=aa&c=cTiterSub&d=tree&label=clade:6B.1A.5a&p=full)
+Recent data more clearly delineate the antigenic differences between the ancestral 156K strains, the subclade with 130N, and the most recent subclade with 54Q, 186T, etc.
+
+# [Multiple subclades have high LBI](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-03-21/h1n1pdm/ha/2y/cell/hi?c=lbi&d=tree&p=full)
+The subclade of 5a.1 with an HA2:183T mutation has one of the highest LBIs in the tree, but multiple clades have relatively high LBIs across the tree.
