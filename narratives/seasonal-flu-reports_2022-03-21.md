@@ -57,6 +57,14 @@ The four separate emergences of 197E in 3a.2 likely appeared in West or South As
 The clade from West/South Asia and one from Africa both displayed substantial onward transmission, while the clade from China has only three samples and the most recent clade from Africa has only one sample.
 Both clades with onward transmission have circulated globally in the last year to four regions (in the case of the African origin) and seven regions (in the case of the West/South Asian origin).
 
+# [HA1:197 mutations appear to drive recent antigenic advance in 3a.2](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-03-21/vic/ha/2y/cell/hi?c=gt-HA1_128,197&d=tree&l=scatter&label=clade:V1A.3a.2&p=full&r=division&scatterY=cTiterSub)
+Multiple HA1:197 mutations from D to E or N drive increased antigenic advance in 3a.2.
+Additional mutations at HA1:128K, 129N, and 220M also show antigenic advance.
+
+# [The highest LBI belongs to a subclade originating from South Asia](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-03-21/vic/ha/2y/cell/hi?c=lbi&d=tree,map&gt=nuc.1196A,1130A,HA1.144L&label=clade:V1A.3a.2&p=grid)
+The clade with its earliest strains in Nepal and India has an LBI of 1 and has spread to West Asia, Europe, North America, and Australia.
+This subclade happens to appear within one of the most successful subclades with 197E.
+
 # [Five separate 202V emergences occurred in Africa, Asia, and Europe](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-03-21/vic/ha/2y/cell/hi?branchLabel=aa&c=region&d=tree,map&gt=HA1.202V&label=clade:V1A.3a.2&p=grid)
 Although 202V mutations emerged five separate times in 3a.2 in the last two years (in South Asia, Africa, Southeast Asia, South Asia again, and Europe), nearly all onward transmission from these clades remained in the same major geographic region.
 Collectively, strains with the 202V mutation peaked at 35% global frequency in the summer of 2021 and now comprise only 13% of recent strains.
@@ -65,11 +73,3 @@ Collectively, strains with the 202V mutation peaked at 35% global frequency in t
 At the beginning of the pandemic, 3a.1 represented <1% of strains in China, 3a.2 represented 3%, and V1A.3 was dominant at 85%.
 Over the course of 2020, 3a.1 swept to a peak frequency of 90% in October 2020.
 Since then 3a.2 began to outcompete 3a.1 and now represents 70% of strains in China.
-
-# [HA1:197 mutations appear to drive recent antigenic advance in 3a.2](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-03-21/vic/ha/2y/cell/hi?c=gt-HA1_128,197&d=tree&l=scatter&label=clade:V1A.3a.2&p=full&r=division)
-Multiple HA1:197 mutations from D to E or N drive increased antigenic advance in 3a.2.
-Additional mutations at HA1:128K, 129N, and 220M also show antigenic advance.
-
-# [The highest LBI belongs to a subclade originating from South Asia](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-03-21/vic/ha/2y/cell/hi?c=lbi&d=tree,map&gt=nuc.1196A,1130A,HA1.144L&label=clade:V1A.3a.2&p=grid)
-The clade with its earliest strains in Nepal and India has an LBI of 1 and has spread to West Asia, Europe, North America, and Australia.
-This subclade happens to appear within one of the most successful subclades with 197E.
