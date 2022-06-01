@@ -134,3 +134,31 @@ See [Huddleston et al. 2020](https://bedford.io/papers/huddleston-flu-forecastin
 
 Models based on either antigenic data or rapid growth in the phylogeny both agree in their predictions that 53G and 53N clades will continue to circulate in the next year.
 Samples in 53G, in particular, are genetically closer to the predicted future population.
+
+# [H1N1pdm diversity in the last four years](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi?d=tree,frequencies&p=full)
+
+The H1N1pdm clade 6B.1A represents the circulating diversity in the last four years.
+The subclade 6B.1A.5, in particular, was dominating at the beginning of the pandemic.
+Since the pandemic, its subclades 5a.1 and 5a.2 have nearly replaced all other clades.
+
+# [H1N1pdm clades show strong geographic structure](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi?d=tree,map&dmin=2020-04-01&label=clade:6B.1A.5a&p=grid&r=region&transmissions=hide)
+
+Since April 2020, we see only regional circulation of H1N1pdm clades.
+Africa and Europe primarily experienced 5a.1, while South Asia, West Asia, and Oceania experienced 5a.2.
+Notably, China has not reported any H1N1pdm since December 2020.
+A sibling clade of 5a.1 and 5a.2 (called 5a, here) has continued to circulate in Africa alone.
+
+# [5a.2 appeared to have died out until its reemergence in Southeast Asia in mid-2021](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi?c=region&d=tree,frequencies&p=full&r=region&transmissions=hide)
+
+During the pandemic, H1N1pdm initially seemed to disappear and then only appeared to be circulating in Africa as 5a.1.
+In the middle of 2021, however, 5a.2 reemerged in Southeast Asia and eventually circulated more globally.
+
+# [5a.2 has not been growing recently despite its antigenic advance](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi?c=cTiterSub&d=tree&p=full&r=region&transmissions=hide)
+
+Models trained on hemagglutination inhibition (HI) assays with ferret sera show strong antigenic advance for 5a.2.
+However, this clade has not been successful recently and appears to be outcompeted by 5a.1.
+
+# [Most recently successful 5a.1 clades have reassorted with a different NA background](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi:community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/na/2y/cell/hi?d=tree&f_clade_membership=6B.1A.5a.1&p=full&r=region&transmissions=hide)
+
+The most recent strains of 5a.1 descend from an HA clade that reassorted with an NA from a novel background.
+This reassortment appears to have happened in Africa.
