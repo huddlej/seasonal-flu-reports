@@ -84,3 +84,50 @@ The reappearance of major clades later in 2020 indicates ongoing, unobserved tra
 
 H3N2 clades show limited geographic distributions throughout the pandemic.
 For example, Africa, Southeast Asia, and South America all exhibit distinct patterns of clades circulating in the last two years.
+
+# [H3N2 circulation during the pandemic shows regional structure](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?branches=hide&d=tree&dmin=2020-04-01&l=scatter&p=full&scatterX=region&transmissions=hide)
+
+H3N2 clades show limited geographic distributions throughout the pandemic.
+For example, Africa, Southeast Asia, and South America all exhibit distinct patterns of clades circulating in the last two years.
+
+# [Africa experienced distinct H3N2 clades from the rest of the world](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,map&dmin=2020-04-01&f_region=Africa&p=grid&transmissions=hide)
+
+The 2a1b subclades 1a and 1b almost exclusively circulated in Africa, especially in West Africa.
+However, we also observe distinct genomic structure between countries within the same regions of Africa.
+
+# [South and Southeast Asia experienced distinct clades from each other](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,map&dmin=2020-04-01&f_region=China,South%20Asia,Southeast%20Asia,Japan%20Korea&p=grid&transmissions=hide)
+
+Adjacent countries in Southeast Asia experienced the same clade, 2a.1, while countries in South Asia did not observe this clade at all.
+Instead, we see the success of the 2a.2 clade that has gone on to dominate globally.
+Notably, China experienced completely different clades and has not reported any H3N2 since July 2020.
+
+# [Even within the United States we observe some structured H3N2 circulation](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,map&dmax=2022-05-31&dmin=2020-04-01&f_country=Usa&p=grid&r=division&transmissions=hide)
+
+Although the new 53G subclade clearly dominates most states in the United States, other clades like 53N and 2a.2 appear in distinct regional clusters.
+
+# [Successful H3N2 clades carry RBS-adjacent mutations](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?c=rb&d=tree&p=full&transmissions=hide)
+
+The successful H3N2 clade 2a.2 and its descendants acquired three mutations adjacent to the receptor binding site (RBS).
+
+# [2a.2 clade lost a glycosylation site associated with 3c2.A for 8 years](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?c=gt-HA1_160&d=tree&p=full&transmissions=hide)
+
+The 160I mutation removes a glycosylation site that has shielded other epitopes in 3c2.A strains for the last eight years ([Zost et al. 2017](https://www.pnas.org/doi/10.1073/pnas.1712377114)).
+
+# [Models based on ferret serology show antigenic advance in 2a.2](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?c=cTiterSub&d=tree&p=full&transmissions=hide)
+
+Models trained on neutralization assays (FRA or HINT assays) with ferret sera show antigenic advance of 2a.2 and its descendants relative to sibling clades.
+
+# [Forecasting models predict the composition of future H3N2 populations](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,frequencies&p=full)
+
+```auspiceMainDisplayMarkdown
+<div>
+    <img src="https://bedford.io/images/blog/flu-forecasting-distance-based-fitness-model.png" width="100%" />
+</div>
+
+See [Huddleston et al. 2020](https://bedford.io/papers/huddleston-flu-forecasting/), for more details.
+```
+
+# [Forecasting models predict continued success of 53G and 53N](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?branches=hide&d=tree,frequencies&l=scatter&p=full&scatterX=weighted_distance_to_future_by_cTiter_x-ne_star&scatterY=weighted_distance_to_future_by_ne_star-lbi&transmissions=hide)
+
+Models based on either antigenic data or rapid growth in the phylogeny both agree in their predictions that 53G and 53N clades will continue to circulate in the next year.
+Samples in 53G, in particular, are genetically closer to the predicted future population.
