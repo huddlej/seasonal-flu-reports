@@ -120,7 +120,7 @@ Models trained on neutralization assays (FRA or HINT assays) with ferret sera sh
 # [Forecasting models predict the composition of future H3N2 populations](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,frequencies&p=full)
 
 We estimate the fitness of currently circulating strains using biologically-relevant predictors like antigenic advance ([Neher at al. 2016](https://bedford.io/papers/neher-titers/)) or rapid recent population growth ([Neher et al. 2014](https://elifesciences.org/articles/03568)) and project the frequencies of these strains forward one year in the future to estimate the composition of the future population.
-We calculate the Hamming distance in nucleotide differences between each recent strain and the futue population to find current strains that best represent the future population.
+We calculate the Hamming distance in nucleotide differences between each recent strain and the future population to find current strains that best represent the future population.
 
 ```auspiceMainDisplayMarkdown
 <div>
