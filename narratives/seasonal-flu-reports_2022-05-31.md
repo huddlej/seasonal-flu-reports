@@ -85,7 +85,7 @@ The reappearance of major clades later in 2020 indicates ongoing, unobserved tra
 H3N2 clades show limited geographic distributions throughout the pandemic.
 For example, Africa, Southeast Asia, and South America all exhibit distinct patterns of clades circulating in the last two years.
 
-# [H3N2 circulation during the pandemic shows regional structure](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?branches=hide&d=tree&dmin=2020-04-01&l=scatter&p=full&scatterX=region&transmissions=hide)
+# [H3N2 circulation during the pandemic shows regional structure](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?branchLabel=none&branches=hide&d=tree&dmin=2020-04-01&l=scatter&p=full&scatterX=region&transmissions=hide)
 
 H3N2 clades show limited geographic distributions throughout the pandemic.
 For example, Africa, Southeast Asia, and South America all exhibit distinct patterns of clades circulating in the last two years.
@@ -118,6 +118,9 @@ The 160I mutation removes a glycosylation site that has shielded other epitopes 
 Models trained on neutralization assays (FRA or HINT assays) with ferret sera show antigenic advance of 2a.2 and its descendants relative to sibling clades.
 
 # [Forecasting models predict the composition of future H3N2 populations](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,frequencies&p=full)
+
+We estimate the fitness of currently circulating strains using biologically-relevant predictors like antigenic advance ([Neher at al. 2016](https://bedford.io/papers/neher-titers/)) or rapid recent population growth ([Neher et al. 2014](https://elifesciences.org/articles/03568)) and project the frequencies of these strains forward one year in the future to estimate the composition of the future population.
+We calculate the Hamming distance in nucleotide differences between each recent strain and the futue population to find current strains that best represent the future population.
 
 ```auspiceMainDisplayMarkdown
 <div>
