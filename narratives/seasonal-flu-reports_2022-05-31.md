@@ -29,7 +29,7 @@ Only A/H3N2 appears to have returned to pre-pandemic levels of circulation.
 # [Viruses accumulate mutations along transmission trees](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,frequencies&p=full)
 
 Transmission trees represent the actual infection of individuals and subsequent onward transmission from each infection.
-We can sample the genomes of some (often small) proportion of reported infections.
+We can sample the genomes of some (often small) proportion of all infections.
 Viral genomes accumulate mutations during replication, allowing us to infer the transmission tree.
 
 ```auspiceMainDisplayMarkdown
@@ -56,7 +56,7 @@ See [Nextstrain's guide on how to read a tree](https://docs.nextstrain.org/en/la
 # [Clades represent potentially relevant biological or epidemiological groups ](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,frequencies&p=full)
 
 Viral genomes that share a single common ancestor in a phylogeny are called "clades".
-We identify clades by the mutations that we find in their inferred ancestral genome.
+We define a clade by the mutations that we find in its inferred ancestral genome.
 These clades may represent viruses with similar phenotypes or geographic distributions.
 
 ```auspiceMainDisplayMarkdown
@@ -73,3 +73,14 @@ See [Nextstrain's guide on how to read a tree](https://docs.nextstrain.org/en/la
 At the beginning of the pandemic, most H3N2 clades descended from the 3C.2a1b clade.
 The clade 3C.3a is a notable exception, a distantly related sibling clade that had circulated at low frequency since late 2013 (7 years).
 Most of the clades circulating as of January 2020 were replaced by a new clade 2a.2.
+
+# [H3N2 circulation dropped following global pandemic responses](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?branchLabel=none&d=tree&dmin=2020-01-01&p=full)
+
+In January 2020, all major clades circulated globally.
+By April 2020, almost all clades had disappeared from genome surveillance data.
+The reappearance of major clades later in 2020 indicates ongoing, unobserved transmission despite global pandemic responses.
+
+# [H3N2 circulation during the pandemic shows regional structure](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,map&dmin=2020-04-01&p=grid&r=region&transmissions=hide)
+
+H3N2 clades show limited geographic distributions throughout the pandemic.
+For example, Africa, Southeast Asia, and South America all exhibit distinct patterns of clades circulating in the last two years.
