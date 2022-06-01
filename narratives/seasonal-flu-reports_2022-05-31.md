@@ -148,7 +148,7 @@ Africa and Europe primarily experienced 5a.1, while South Asia, West Asia, and O
 Notably, China has not reported any H1N1pdm since December 2020.
 A sibling clade of 5a.1 and 5a.2 (called 5a, here) has continued to circulate in Africa alone.
 
-# [5a.2 appeared to have died out until its reemergence in Southeast Asia in mid-2021](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi?c=region&d=tree,frequencies&p=full&r=region&transmissions=hide)
+# [5a.2 appeared to have died out until its reemergence in Southeast Asia in mid-2021](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi?c=region&d=tree,frequencies&p=full&r=region&transmissions=hide&label=clade:6B.1A.5a)
 
 During the pandemic, H1N1pdm initially seemed to disappear and then only appeared to be circulating in Africa as 5a.1.
 In the middle of 2021, however, 5a.2 reemerged in Southeast Asia and eventually circulated more globally.
@@ -162,3 +162,7 @@ However, this clade has not been successful recently and appears to be outcompet
 
 The most recent strains of 5a.1 descend from an HA clade that reassorted with an NA from a novel background.
 This reassortment appears to have happened in Africa.
+
+# [Sampling bias remains an issue with genomic surveillance](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi?c=country&d=tree,map&f_recency=last%20month,last%20week&label=clade:6B.1A.5a&p=grid&transmissions=hide)
+
+Of the 244 genomes submitted in the last month, 99 (41%) were from the Netherlands.
