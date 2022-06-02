@@ -97,10 +97,6 @@ Adjacent countries in Southeast Asia experienced the same clade, 2a.1, while cou
 Instead, we see the success of the 2a.2 clade that has gone on to dominate globally.
 Notably, China experienced completely different clades and has not reported any H3N2 since July 2020.
 
-# [Even within the United States we observe some structured H3N2 circulation](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,map&dmax=2022-05-31&dmin=2020-04-01&f_country=Usa&p=grid&r=division&transmissions=hide)
-
-Although the new 53G subclade clearly dominates most states in the United States, other clades like 53N and 2a.2 appear in distinct regional clusters.
-
 # [Successful H3N2 clades carry RBS-adjacent mutations](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?c=rb&d=tree&p=full&transmissions=hide)
 
 The successful H3N2 clade 2a.2 and its descendants acquired three mutations adjacent to the receptor binding site (RBS).
@@ -154,11 +150,6 @@ In the middle of 2021, however, 5a.2 reemerged in Southeast Asia and eventually 
 Models trained on hemagglutination inhibition (HI) assays with ferret sera show strong antigenic advance for 5a.2.
 However, this clade has not been successful recently and appears to be outcompeted by 5a.1.
 
-# [Most recently successful 5a.1 clades have reassorted with a different NA background](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi:community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/na/2y/cell/hi?d=tree&f_clade_membership=6B.1A.5a.1&p=full&r=region&transmissions=hide)
-
-The most recent strains of 5a.1 descend from an HA clade that reassorted with an NA from a novel background.
-This reassortment appears to have happened in Africa.
-
 # [Vic diversity in the last four years](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/vic/ha/2y/cell/hi?d=tree,frequencies&p=full)
 
 In the last four years, a Vic clade, V1A.3, carrying a triple deletion (HA1 163-165) replaced all other circulating clades at the time.
@@ -170,10 +161,6 @@ Since the pandemic, this subclade diversified into V1A.3a1 and V1A.3a2 and nearl
 The 3a.2 subclade has circulated globally, but it has dominated primarily in Europe, Africa, and South and Southeast Asia.
 Interestingly, 3a.1 has almost exclusively circulated in China, since April 2020, with no onward transmission globally.
 Also somewhat surprisingly, other subclades of V1A.3 have continued to circulate in China, North America, South America, Africa, and Europe.
-
-# [Long-branched subclades in V1A.3 show limited geographic spread](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/vic/ha/2y/cell/hi?c=region&d=tree&f_clade_membership=V1A.3&f_epiweek=202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202213,202214,202215,202216,202217,202134&p=full)
-
-Recent subclades of V1A.3 primarily originate from a single region of the world, indicating limited geographic spread of these clades and continuous circulation within a given region.
 
 # [China has experienced continued co-circulation of V1A.3 subclades](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/vic/ha/2y/cell/hi?d=tree,map&dmin=2020-04-01&f_region=China&p=grid&r=division&transmissions=hide)
 
@@ -187,6 +174,10 @@ Vic may now be the only seasonal influenza circulating in China.
 
 Although China's quarantine policies prevent the transmission of new variation into the country, they do not limit transmission from China to the rest of the world.
 Recently collected strains in Montana, USA and Sydney, Australia from China's 122Q subclade of 3a.2 show the first observed cases of this onward transmission.
+
+# [Long-branched subclades in V1A.3 show limited geographic spread](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/vic/ha/2y/cell/hi?c=region&d=tree&f_clade_membership=V1A.3&f_epiweek=202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202213,202214,202215,202216,202217,202134&p=full)
+
+Recent subclades of V1A.3 primarily originate from a single region of the world, indicating limited geographic spread of these clades and continuous circulation within a given region.
 
 # [B/Yamagata has not been observed since March 2020](https://nextstrain.org/flu/seasonal/yam/ha/2y?d=tree&p=full)
 
