@@ -192,10 +192,10 @@ Vic may now be the only seasonal influenza circulating in China.
 Although China's quarantine policies prevent the transmission of new variation into the country, they do not limit transmission from China to the rest of the world.
 Recently collected strains in Montana, USA and Sydney, Australia from China's 122Q subclade of 3a.2 show the first observed cases of this onward transmission.
 
-# [B/Yamagata has not been observed since March 2020](https://nextstrain.org/flu/seasonal/yam/ha/2y)
+# [B/Yamagata has not been observed since March 2020](https://nextstrain.org/flu/seasonal/yam/ha/2y?d=tree&p=full)
 
 Despite active global surveillance efforts, no verified sample of B/Yamagata has been reported since March 2020.
-Although patterns from the other major lineages show how influenza can continue to circulate undetected in the same region and in the absence of global travel, the lack of observed Yam samples after this long suggests that the lineage may have gone extinct.
+Although patterns from the other major lineages show how influenza can continue to circulate undetected in the same region and in the absence of global travel, the lack of observed Yam samples after this long suggests that the lineage may be extinct.
 
 # [Conclusions](https://nextstrain.org/flu/seasonal/yam/ha/2y)
 
