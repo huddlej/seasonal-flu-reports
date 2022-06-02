@@ -80,7 +80,7 @@ In January 2020, all major clades circulated globally.
 By April 2020, almost all clades had disappeared from genome surveillance data.
 The reappearance of major clades later in 2020 indicates ongoing, unobserved transmission despite global pandemic responses.
 
-# [H3N2 circulation during the pandemic shows regional structure](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,map&dmin=2020-04-01&p=grid&r=region&transmissions=hide)
+# [H3N2 circulation during the pandemic shows regional structure](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,map&dmin=2020-04-01&p=full&r=region&transmissions=hide)
 
 H3N2 clades show limited geographic distributions throughout the pandemic.
 For example, Africa, Southeast Asia, and South America all exhibit distinct patterns of clades circulating in the last two years.
