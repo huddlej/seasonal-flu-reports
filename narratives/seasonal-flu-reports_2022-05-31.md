@@ -166,3 +166,39 @@ This reassortment appears to have happened in Africa.
 # [Sampling bias remains an issue with genomic surveillance](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi?c=country&d=tree,map&f_recency=last%20month,last%20week&label=clade:6B.1A.5a&p=grid&transmissions=hide)
 
 Of the 244 genomes submitted in the last month, 99 (41%) were from the Netherlands.
+
+# [Vic diversity in the last four years](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/vic/ha/2y/cell/hi?d=tree,frequencies&p=full)
+
+In the last four years, a Vic clade, V1A.3, carrying a triple deletion (HA1 163-165) replaced all other circulating clades at the time.
+At the beginning of the pandemic, V1A.3's sweep was nearly complete, and a subclade, V1A.3a had already begun to emerge.
+Since the pandemic, this subclade diversified into V1A.3a1 and V1A.3a2 and nearly replaced its sibling clades from V1A.3.
+
+# [As with other lineages, Vic has shown strong geographic structure during the pandemic](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/vic/ha/2y/cell/hi?d=tree,map&dmin=2020-04-01&label=clade:V1A.3&p=grid&r=region&transmissions=hide)
+
+The 3a.2 subclade has circulated globally, but it has dominated primarily in Europe, Africa, and South and Southeast Asia.
+Interestingly, 3a.1 has almost exclusively circulated in China, since April 2020, with no onward transmission globally.
+Also somewhat surprisingly, other subclades of V1A.3 have continued to circulate in China, North America, South America, Africa, and Europe.
+
+# [China has experienced continued co-circulation of V1A.3 subclades](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/vic/ha/2y/cell/hi?d=tree,map&dmin=2020-04-01&f_region=China&p=grid&r=division&transmissions=hide)
+
+In China, we see continued co-circulation of V1A.3 subclades including 3a.1 and a subclade of 3a.2 defined by a HA1:122Q mutation.
+These latter two clades appear in nearly every division in China.
+These clades most likely represent the diversity of Vic circulating when quarantine policies began.
+Since the beginning of the pandemic, no new Vic strains have appeared in China from the rest of the world.
+Vic may now be the only seasonal influenza circulating in China.
+
+# [Samples from China's 122Q subclade have transmitted outside of the country](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/vic/ha/2y/cell/hi?c=region&d=tree,map&gt=HA1.122Q,nuc.1806A&label=clade:V1A.3a.2&p=grid&transmissions=hide)
+
+Although China's quarantine policies prevent the transmission of new variation into the country, they do not limit transmission from China to the rest of the world.
+Recently collected strains in Montana, USA and Sydney, Australia from China's 122Q subclade of 3a.2 show the first observed cases of this onward transmission.
+
+# [B/Yamagata has not been observed since March 2020](https://nextstrain.org/flu/seasonal/yam/ha/2y)
+
+Despite active global surveillance efforts, no verified sample of B/Yamagata has been reported since March 2020.
+Although patterns from the other major lineages show how influenza can continue to circulate undetected in the same region and in the absence of global travel, the lack of observed Yam samples after this long suggests that the lineage may have gone extinct.
+
+# [Conclusions](https://nextstrain.org/flu/seasonal/yam/ha/2y)
+
+```auspiceMainDisplayMarkdown
+Lessons we've learned.
+```
