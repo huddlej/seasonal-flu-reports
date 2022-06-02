@@ -80,12 +80,7 @@ In January 2020, all major clades circulated globally.
 By April 2020, almost all clades had disappeared from genome surveillance data.
 The reappearance of major clades later in 2020 indicates ongoing, unobserved transmission despite global pandemic responses.
 
-# [H3N2 circulation during the pandemic shows regional structure](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,map&dmin=2020-04-01&p=full&r=region&transmissions=hide)
-
-H3N2 clades show limited geographic distributions throughout the pandemic.
-For example, Africa, Southeast Asia, and South America all exhibit distinct patterns of clades circulating in the last two years.
-
-# [H3N2 circulation during the pandemic shows regional structure](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?branchLabel=none&branches=hide&d=tree&dmin=2020-04-01&l=scatter&p=full&scatterX=region&transmissions=hide)
+# [H3N2 circulation during the pandemic shows regional structure](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,map&dmin=2020-04-01&p=grid&r=region&transmissions=hide)
 
 H3N2 clades show limited geographic distributions throughout the pandemic.
 For example, Africa, Southeast Asia, and South America all exhibit distinct patterns of clades circulating in the last two years.
@@ -109,13 +104,13 @@ Although the new 53G subclade clearly dominates most states in the United States
 
 The successful H3N2 clade 2a.2 and its descendants acquired three mutations adjacent to the receptor binding site (RBS).
 
-# [2a.2 clade lost a glycosylation site associated with 3c2.A for 8 years](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?c=gt-HA1_160&d=tree&p=full&transmissions=hide)
+# [2a.2 clade lost a glycosylation site associated with 3c.2A for 8 years](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?c=gt-HA1_160&d=tree&p=full&transmissions=hide)
 
-The 160I mutation removes a glycosylation site that has shielded other epitopes in 3c2.A strains for the last eight years ([Zost et al. 2017](https://www.pnas.org/doi/10.1073/pnas.1712377114)).
+The 160I mutation removes a glycosylation site that has shielded other epitopes in 3C.2a strains for the last eight years ([Zost et al. 2017](https://www.pnas.org/doi/10.1073/pnas.1712377114)).
 
-# [Models based on ferret serology show antigenic advance in 2a.2](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?c=cTiterSub&d=tree&p=full&transmissions=hide)
+# [Models based on ferret serology show antigenic advance in 2a.2](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?c=cTiterSub&d=tree&p=full&transmissions=hide&label=clade:3C.2a1b.2a.2&branchLabel=aa)
 
-Models trained on neutralization assays (FRA or HINT assays) with ferret sera show antigenic advance of 2a.2 and its descendants relative to sibling clades.
+Models trained on neutralization assays (FRA and HINT assays) with ferret sera show antigenic advance of 2a.2 and its descendants relative to sibling clades.
 
 # [Forecasting models predict the composition of future H3N2 populations](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h3n2/ha/2y/cell/fra?d=tree,frequencies&p=full)
 
@@ -153,7 +148,7 @@ A sibling clade of 5a.1 and 5a.2 (called 5a, here) has continued to circulate in
 During the pandemic, H1N1pdm initially seemed to disappear and then only appeared to be circulating in Africa as 5a.1.
 In the middle of 2021, however, 5a.2 reemerged in Southeast Asia and eventually circulated more globally.
 
-# [5a.2 has not been growing recently despite its antigenic advance](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi?c=cTiterSub&d=tree&p=full&r=region&transmissions=hide)
+# [5a.2 has not been growing recently despite its antigenic advance](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi?c=cTiterSub&d=tree,frequencies&p=full&r=region&transmissions=hide)
 
 Models trained on hemagglutination inhibition (HI) assays with ferret sera show strong antigenic advance for 5a.2.
 However, this clade has not been successful recently and appears to be outcompeted by 5a.1.
@@ -162,10 +157,6 @@ However, this clade has not been successful recently and appears to be outcompet
 
 The most recent strains of 5a.1 descend from an HA clade that reassorted with an NA from a novel background.
 This reassortment appears to have happened in Africa.
-
-# [Sampling bias remains an issue with genomic surveillance](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/h1n1pdm/ha/2y/cell/hi?c=country&d=tree,map&f_recency=last%20month,last%20week&label=clade:6B.1A.5a&p=grid&transmissions=hide)
-
-Of the 244 genomes submitted in the last month, 99 (41%) were from the Netherlands.
 
 # [Vic diversity in the last four years](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/vic/ha/2y/cell/hi?d=tree,frequencies&p=full)
 
@@ -178,6 +169,10 @@ Since the pandemic, this subclade diversified into V1A.3a1 and V1A.3a2 and nearl
 The 3a.2 subclade has circulated globally, but it has dominated primarily in Europe, Africa, and South and Southeast Asia.
 Interestingly, 3a.1 has almost exclusively circulated in China, since April 2020, with no onward transmission globally.
 Also somewhat surprisingly, other subclades of V1A.3 have continued to circulate in China, North America, South America, Africa, and Europe.
+
+# [Long-branched subclades in V1A.3 show limited geographic spread](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/vic/ha/2y/cell/hi?c=region&d=tree&f_clade_membership=V1A.3&f_epiweek=202135,202136,202137,202138,202139,202140,202141,202142,202143,202144,202145,202146,202147,202148,202149,202150,202151,202152,202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202213,202214,202215,202216,202217,202134&p=full)
+
+Recent subclades of V1A.3 primarily originate from a single region of the world, indicating limited geographic spread of these clades and continuous circulation within a given region.
 
 # [China has experienced continued co-circulation of V1A.3 subclades](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-05-31/vic/ha/2y/cell/hi?d=tree,map&dmin=2020-04-01&f_region=China&p=grid&r=division&transmissions=hide)
 
@@ -199,6 +194,9 @@ Although patterns from the other major lineages show how influenza can continue 
 
 # [Conclusions](https://nextstrain.org/flu/seasonal/yam/ha/2y)
 
-```auspiceMainDisplayMarkdown
-Lessons we've learned.
-```
+ - A/H3N2 circulation has returned to pre-pandemic levels and global circulation driven by the success of 2a.2 and its subclades.
+ - A/H1N1pdm remains at lower levels of circulation since the pandemic and its genetic diversity exhibits strong geographic structure.
+ - B/Vic populations in China and the rest of the world are strongly isolated.
+ - B/Yam appears to be extinct.
+ - We observe what are effectively two meta-populations of seasonal influenza where a) individuals in China (~18% of the global population) may no longer encounter H3N2 or H1N1pdm but may experience consistent Vic circulation and b) individuals in the rest of the world encounter H3N2, H1N1pdm, and antigenically distinct Vic clades from those circulating in China.
+ - Long branches with limited geographic spread for all major lineages indicate continuous circulation of seasonal influenza in many regions of the world.
