@@ -195,6 +195,9 @@ Although patterns from the other major lineages show how influenza can continue 
 
 # [Conclusions](https://nextstrain.org/flu/seasonal/yam/ha/2y)
 
+```auspiceMainDisplayMarkdown
+## Lessons learned about seasonal influenza from the SARS-CoV-2 pandemic era
+
  - Global responses to the SARS-CoV-2 pandemic had a strong effect on seasonal influenza circulation.
  - A/H3N2 circulation has returned to pre-pandemic levels and global circulation driven by the success of 2a.2 and its subclades.
  - A/H1N1pdm remains at lower levels of circulation since the pandemic and its genetic diversity exhibits strong geographic structure.
@@ -202,3 +205,4 @@ Although patterns from the other major lineages show how influenza can continue 
  - B/Yam appears to be extinct.
  - We observe what are effectively two meta-populations of seasonal influenza where a) individuals in China (~18% of the global population) may no longer encounter H3N2 or H1N1pdm but may experience consistent Vic circulation and b) individuals in the rest of the world encounter H3N2, H1N1pdm, and antigenically distinct Vic clades from those circulating in China.
  - Long branches with limited geographic spread for all major lineages indicate continuous circulation of seasonal influenza in many regions of the world.
+```
