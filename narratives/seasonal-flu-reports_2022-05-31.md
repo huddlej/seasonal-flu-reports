@@ -186,7 +186,9 @@ Although patterns from the other major lineages show how influenza can continue 
 
 # [Conclusions](https://nextstrain.org/flu/seasonal/yam/ha/2y)
 
-Visit [nextstrain.org/influenza](https://nextstrain.org/influenza/) for more influenza resources.
+ - Visit [nextstrain.org/influenza](https://nextstrain.org/influenza/) for more influenza resources.
+ - [Learn how to write your own narratives](https://docs.nextstrain.org/en/latest/tutorials/narratives-how-to-write.html) (like this one).
+ - Reach out to the Nextstrain team at [discussion.nextstrain.org](https://discussion.nextstrain.org) or hello@nextstrain.org to get involved.
 
 ```auspiceMainDisplayMarkdown
 ## Lessons learned about seasonal influenza from the SARS-CoV-2 pandemic era
