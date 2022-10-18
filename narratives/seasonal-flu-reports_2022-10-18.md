@@ -30,7 +30,7 @@ Early and mid-year epidemics occurred primarily on Europe, Oceania, and Africa.
 </div>
 ```
 
-# [Recent H1N1pdm circulation](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?d=tree,map,frequencies&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&p=grid)
+# [Recent H1N1pdm circulation](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?d=tree,map,frequencies&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&p=grid&label=clade:6B.1A.5a)
 
 5a.2 represents 86% of recent global sequences and dominates 5a.1 in Oceania, South Asia, Africa, and North America.
 5a.1 retains a higher frequency in South America and Europe.
@@ -48,7 +48,7 @@ See [Neher et al. 2016](https://bedford.io/papers/neher-titers/) for more detail
 </div>
 ```
 
-# [H1N1pdm antigenic advance by substitution model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?c=cTiterSub&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&label=clade:6B.1A.5a)
+# [H1N1pdm antigenic advance by substitution model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?c=cTiterSub&d=tree&p=full&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&label=clade:6B.1A.5a)
 
 5a.2 is the most antigenically advanced by the substitution model.
 There is little variation in advance within 5a.2 subclade, however, despite the number amino acid mutations there.
@@ -113,11 +113,6 @@ That specific pattern remains driven by titer measurements from the A/Maryland/2
 
 The tree model does not distinguish as much between any of the recent clades, although 53G and 53N have a slightly higher mean antigenic advance.
 A subset of both 53N and 50K strains appear advanced relative to the rest of the strains in these clades.
-
-# [H3N2 antigenic advance by tree model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h3n2/2y/cell/fra/ha?branches=hide&d=tree&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202235,202236,202237,202234&l=scatter&label=clade:3C.2a1b.2a.2/53N&p=full&scatterX=cTiter&scatterY=clade_membership&c=gt-HA1_50,83,140&branchLabel=none)
-
-The most advanced subclade of 53N has additional 50K and 83K mutations.
-The 53N subclade with both 50K and 140K mutations is not considered as advanced by this model.
 
 # [H3N2 local branching index](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h3n2/2y/cell/fra/ha?c=lbi&d=tree&r=division&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202233,202235,202236,202237,202232,202234)
 
