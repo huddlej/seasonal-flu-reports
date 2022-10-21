@@ -105,7 +105,7 @@ This clade appears in four major regions with highest circulation in North Ameri
 
 Recent 2a.1 circulation remains limited to China and represents 9% of global H3N2.
 
-# [The USA has also seen most of H3N2 diversity in 2022](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h3n2/2y/cell/fra/ha?p=grid&d=tree,map&f_country=Usa&label=clade:3C.2a1b.2a.2&r=division)
+# [The USA has also seen most of H3N2 diversity in 2022](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h3n2/2y/cell/fra/ha?p=grid&d=tree,map&f_country=Usa&label=clade:3C.2a1b.2a.2&r=division&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202233,202235,202236,202237,202232,202234)
 
 Since January 2022, the USA has sampled most of H3N2's diversity, too, with the exception of 2a.1 which is only circulating in China.
 Importantly, the reassorted 50K subclade has been growing here quickly and has been observed in 13 states, predominantly in the eastern USA.
