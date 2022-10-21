@@ -72,10 +72,6 @@ There is little variation in advance within 5a.2 subclade, however, despite the 
 
 5a.2 is the most antigenically advanced by the tree model, too, although we see a slightly higher variation within the clade.
 
-# [H1N1pdm antigenic advance by tree model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?c=cTiter&d=tree&p=full&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&branchLabel=aa&label=clade:6B.1A.5a.2)
-
-Within 5a.2, subclade of an ancestral virus with HA1:216A appear slightly more advanced than their sibling clades.
-
 # [HA1:142R and 137S mutations are at putative epitope sites](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?d=tree&p=full&branchLabel=aa&c=ep&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&label=clade:6B.1A.5a.2)
 
 In the absence of strong antigenic data from the ferret serology, one might conclude that these two epitope mutations might favor this subclade over others.
@@ -109,7 +105,7 @@ This clade appears in four major regions with highest circulation in North Ameri
 
 Recent 2a.1 circulation remains limited to China and represents 9% of global H3N2.
 
-# [The USA has also seen most of H3N2 diversity in 2022](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h3n2/2y/cell/fra/ha?f_country=Usa&label=clade:3C.2a1b.2a.2&r=division)
+# [The USA has also seen most of H3N2 diversity in 2022](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h3n2/2y/cell/fra/ha?p=grid&d=tree,map&f_country=Usa&label=clade:3C.2a1b.2a.2&r=division)
 
 Since January 2022, the USA has sampled most of H3N2's diversity, too, with the exception of 2a.1 which is only circulating in China.
 Importantly, the reassorted 50K subclade has been growing here quickly and has been observed in 13 states, predominantly in the eastern USA.
@@ -166,7 +162,7 @@ With 60 samples from 3a.2 or V1A.3, the Netherlands has the most samples of any 
 From these samples, 3a.2 appears to be outcompeting its sibling V1A.3 strains.
 No specific subclade of 3a.2 has dominated in the Netherlands recently, however, so the amino acid mutation(s) responsible for any specific fitness advantage in this clade are unclear.
 
-# [Vic has been rare in the USA in 2022](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/vic/2y/cell/hi/ha?c=haplotype&d=tree,map&f_country=Usa&label=clade:V1A.3a.2&p=grid&r=division)
+# [Vic has been rare in the USA in 2022](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/vic/2y/cell/hi/ha?c=haplotype&d=tree,map&f_country=Usa&label=clade:V1A.3a.2&p=grid&r=division&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235)
 
 Only 6 Vic genomes have been collected in the USA in 2022, all belonging to the 3a.2 subclade.
 This same clade is covered by the most recent vaccine, B/Austria/1359417/2021.
