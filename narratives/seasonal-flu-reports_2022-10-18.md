@@ -35,6 +35,16 @@ Early and mid-year epidemics occurred primarily on Europe, Oceania, and Africa.
 5a.2 represents 86% of recent global sequences and dominates 5a.1 in Oceania, South Asia, Africa, and North America.
 5a.1 retains a higher frequency in South America and Europe.
 
+# [The USA has experienced much recent H1N1pdm diversity](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?branchLabel=aa&d=tree,map&f_country=Usa&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&label=clade:6B.1A.5a&p=grid&r=division)
+
+Since January 2022, the USA has sampled much of the extant diversity of H1N1pdm.
+Samples collected from 5a.2 are especially diverse across the country.
+
+# [Numerous mutations have emerged in 5a.2 since the last vaccine](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?branchLabel=aa&c=haplotype&d=tree&label=clade:6B.1A.5a.2&p=full)
+
+Over a dozen new HA1 mutations have merged in 5a.2 since the last vaccine strains were selected (A/Victoria/2570/2019 and A/Wisconsin/588/2019).
+[The WHO updated the southern hemisphere vaccine this September to A/Sydney/5/2021](https://www.who.int/publications/m/item/recommended-composition-of-influenza-virus-vaccines-for-use-in-the-2023-southern-hemisphere-influenza-season) to genetically match current strains.
+
 # [Nextstrain estimates antigenic advance with titer models](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?c=cTiterSub&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&label=clade:6B.1A.5a)
 
 Nextstrain estimates antigenic advance with two different models that map antigenic weights to branches of a tree (with the "tree model") or amino acids in a multiple sequence alignment (with the "substitution model").
@@ -99,15 +109,15 @@ This clade appears in four major regions with highest circulation in North Ameri
 
 Recent 2a.1 circulation remains limited to China and represents 9% of global H3N2.
 
+# [The USA has also seen most of H3N2 diversity in 2022](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h3n2/2y/cell/fra/ha?f_country=Usa&label=clade:3C.2a1b.2a.2&r=division)
+
+Since January 2022, the USA has sampled most of H3N2's diversity, too, with the exception of 2a.1 which is only circulating in China.
+Importantly, the reassorted 50K subclade has been growing here quickly and has been observed in 13 states, predominantly in the eastern USA.
+
 # [H3N2 antigenic advance by substitution model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h3n2/2y/cell/fra/ha?branches=hide&d=tree&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202235,202236,202237,202234&l=scatter&label=clade:3C.2a1b.2&p=full&scatterX=cTiterSub&scatterY=clade_membership&c=clade_membership&branchLabel=none)
 
 The substitution model assigns the most antigenic advance to the 53G clade.
 This clade has a bimodal distribution of antigenic advance.
-
-# [H3N2 antigenic advance by substitution model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h3n2/2y/cell/fra/ha?branches=hide&d=tree&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202235,202236,202237,202234&l=scatter&label=clade:3C.2a1b.2&p=full&scatterX=cTiterSub&scatterY=clade_membership&c=gt-HA1_157&branchLabel=none)
-
-The most antigenically advanced tips have the HA1:157I mutation.
-That specific pattern remains driven by titer measurements from the A/Maryland/2/2021 reference sera.
 
 # [H3N2 antigenic advance by tree model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h3n2/2y/cell/fra/ha?branches=hide&d=tree&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202235,202236,202237,202234&l=scatter&label=clade:3C.2a1b.2&p=full&scatterX=cTiter&scatterY=clade_membership&c=clade_membership&branchLabel=none)
 
@@ -155,6 +165,12 @@ These subclades are directly competing with 3a.2 in the Netherlands, Spain, Germ
 With 60 samples from 3a.2 or V1A.3, the Netherlands has the most samples of any country to compare fitness differences of these strains.
 From these samples, 3a.2 appears to be outcompeting its sibling V1A.3 strains.
 No specific subclade of 3a.2 has dominated in the Netherlands recently, however, so the amino acid mutation(s) responsible for any specific fitness advantage in this clade are unclear.
+
+# [Vic has been rare in the USA in 2022](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/vic/2y/cell/hi/ha?c=haplotype&d=tree,map&f_country=Usa&label=clade:V1A.3a.2&p=grid&r=division)
+
+Only 6 Vic genomes have been collected in the USA in 2022, all belonging to the 3a.2 subclade.
+This same clade is covered by the most recent vaccine, B/Austria/1359417/2021.
+Two genomes collected in Montana represent an introduction from China's 122Q subclade.
 
 # [Vic antigenic advance by substitution model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/vic/2y/cell/hi/ha?c=clade_membership&d=tree&p=full&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235&l=scatter&scatterX=cTiterSub&scatterY=clade_membership&branchLabel=none&branches=hide)
 
