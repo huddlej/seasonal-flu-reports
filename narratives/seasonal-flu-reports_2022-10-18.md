@@ -167,3 +167,20 @@ Two genomes collected in Montana represent an introduction from China's 122Q sub
 
 A 3a.2 subclade with HA1:197E has some of the highest LBI values from strains circulating in 2022.
 The 122Q subclade of 3a.2 also retains a high LBI, despite its circulation in only China.
+
+
+# [Conclusions](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/vic/2y/cell/hi/ha?c=lbi&d=tree&p=full&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235&label=clade:V1A.3a.2&branchLabel=aa)
+
+```auspiceMainDisplayMarkdown
+## Conclusions
+
+  - In H1N1pdm, 5a.2 appears to be outcompeting other subclades, but there is little signal within this clade of successful emerging clades except perhaps those with HA1:137S or HA1:216A mutations.
+    - The current northern hemisphere vaccine appears well-matched by ferret serology, but the southern hemisphere has updated its vaccine to a better genetic match.
+  - Multiple H3N2 clades continue to compete globally, complicating predictions.
+    - 2a.1 is antigenically distinct from current vaccine strain, but may only circulate in China.
+    - 2a.2 clades appear generally similar by ferret serology, but 2a.2/50K may have an advantage due to reassortment
+    - 2a.2/50K is not as closely matched with the H3N2 vaccine strain
+  - In Vic, 3a.2 continues to dominate, although a recent subclade of V1A.3 strains in the Netherlands appeared to temporarily outcompete 3a.2 until recently.
+    - The USA has seen little Vic except a handful of 3a.2 strains.
+    - The current vaccine strain covers 3a.2 well.
+```
