@@ -58,19 +58,15 @@ See [Neher et al. 2016](https://bedford.io/papers/neher-titers/) for more detail
 </div>
 ```
 
-# [H1N1pdm antigenic advance by substitution model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?c=cTiterSub&d=tree&p=full&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&label=clade:6B.1A.5a)
+# [H1N1pdm antigenic advance by tree model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?c=cTiter&d=tree&p=full&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&label=clade:6B.1A.5a)
 
-5a.2 is the most antigenically advanced by the substitution model.
-There is little variation in advance within 5a.2 subclade, however, despite the number amino acid mutations there.
-
-# [H1N1pdm antigenic advance by substitution model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?c=clade_membership&d=tree&p=full&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&l=scatter&scatterX=cTiterSub&scatterY=clade_membership&branchLabel=none&label=clade:6B.1A.5a&branches=hide)
-
-5a.2 is the most antigenically advanced by the substitution model.
+5a.2 is the most antigenically advanced by the tree model.
 There is little variation in advance within 5a.2 subclade, however, despite the number amino acid mutations there.
 
 # [H1N1pdm antigenic advance by tree model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?c=clade_membership&d=tree&p=full&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&l=scatter&scatterX=cTiter&scatterY=clade_membership&branchLabel=none&label=clade:6B.1A.5a&branches=hide)
 
-5a.2 is the most antigenically advanced by the tree model, too, although we see a slightly higher variation within the clade.
+5a.2 is the most antigenically advanced by the tree model.
+There is little variation in advance within 5a.2 subclade, however, despite the number amino acid mutations there.
 
 # [HA1:142R and 137S mutations are at putative epitope sites](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h1n1pdm/2y/cell/hi/ha?d=tree&p=full&branchLabel=aa&c=ep&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202240&label=clade:6B.1A.5a.2)
 
@@ -109,11 +105,6 @@ Recent 2a.1 circulation remains limited to China and represents 9% of global H3N
 
 Since January 2022, the USA has sampled most of H3N2's diversity, too, with the exception of 2a.1 which is only circulating in China.
 Importantly, the reassorted 50K subclade has been growing here quickly and has been observed in 13 states, predominantly in the eastern USA.
-
-# [H3N2 antigenic advance by substitution model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h3n2/2y/cell/fra/ha?branches=hide&d=tree&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202235,202236,202237,202234&l=scatter&label=clade:3C.2a1b.2&p=full&scatterX=cTiterSub&scatterY=clade_membership&c=clade_membership&branchLabel=none)
-
-The substitution model assigns the most antigenic advance to the 53G clade.
-This clade has a bimodal distribution of antigenic advance.
 
 # [H3N2 antigenic advance by tree model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/h3n2/2y/cell/fra/ha?branches=hide&d=tree&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202235,202236,202237,202234&l=scatter&label=clade:3C.2a1b.2&p=full&scatterX=cTiter&scatterY=clade_membership&c=clade_membership&branchLabel=none)
 
@@ -167,10 +158,6 @@ No specific subclade of 3a.2 has dominated in the Netherlands recently, however,
 Only 6 Vic genomes have been collected in the USA in 2022, all belonging to the 3a.2 subclade.
 This same clade is covered by the most recent vaccine, B/Austria/1359417/2021.
 Two genomes collected in Montana represent an introduction from China's 122Q subclade.
-
-# [Vic antigenic advance by substitution model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/vic/2y/cell/hi/ha?c=clade_membership&d=tree&p=full&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235&l=scatter&scatterX=cTiterSub&scatterY=clade_membership&branchLabel=none&branches=hide)
-
-3a.2 is the most antigenically advanced clade by the substitution model.
 
 # [Vic antigenic advance by tree model](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-10-18/vic/2y/cell/hi/ha?c=clade_membership&d=tree&p=full&f_epiweek=202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202213,202214,202215,202216,202217,202218,202219,202220,202221,202222,202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235&l=scatter&scatterX=cTiter&scatterY=clade_membership&branchLabel=none&branches=hide)
 
