@@ -174,13 +174,22 @@ The 122Q subclade of 3a.2 also retains a high LBI, despite its circulation in on
 ```auspiceMainDisplayMarkdown
 ## Conclusions
 
-  - In H1N1pdm, 5a.2 appears to be outcompeting other subclades.
-    - The current northern hemisphere vaccine appears well-matched by ferret serology, but the southern hemisphere has updated its vaccine to a better genetic match.
+### H1N1pdm
+
+  - 5a.2 appears to be outcompeting other subclades.
+  - The current northern hemisphere vaccine appears well-matched by ferret serology, but the southern hemisphere has updated its vaccine to a better genetic match.
+
+### H3N2
+
   - Multiple H3N2 clades continue to compete globally, complicating predictions.
-    - 2a.1 is antigenically distinct from current vaccine strain but may only circulate in China.
-    - 2a.2 clades appear generally similar by ferret serology, but 2a.2/50K may have an advantage due to slight antigenic novelty and reassortment
-    - 2a.2/50K is not as closely matched with the H3N2 vaccine strain
+  - 2a.1 is antigenically distinct from current vaccine strain but may only circulate in China.
+  - 2a.2 clades appear generally similar by ferret serology, but 2a.2/50K may have an advantage due to slight antigenic novelty and reassortment
+  - 2a.2/50K is not as closely matched with the H3N2 vaccine strain
+
+### Vic
+
   - In Vic, 3a.2 continues to dominate.
-    - The USA has seen little Vic except a handful of 3a.2 strains.
-    - The current vaccine strain covers 3a.2 well.
+  - The USA has seen little Vic except a handful of 3a.2 strains.
+  - The current vaccine strain covers 3a.2 well.
+
 ```
