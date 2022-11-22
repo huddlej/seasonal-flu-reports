@@ -2,7 +2,7 @@
 title: "Nextstrain seasonal influenza report for November 2022"
 date: "November 17, 2022"
 dataset: https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-11-17/h3n2/2y/cell/fra/ha?c=haplotype&d=tree,map,frequencies&f_country=Usa&f_epiweek=202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202239,202240,202241,202242,202243,202244&label=clade:3C.2a1b.2a.2&p=grid&r=division
-abstract: B/Vic has been rare in the USA. In H1N1pdm, 5a.2 is outcompeting other subclades with a subclade carrying HA1:142R and either HA1:137S or HA1:216A mutations driving recent growth. The reassorted H3N2 subclade 2a.2/50K continues to grow rapidly and is now the dominant clade globally.
+abstract: B/Vic has been rare in the USA. In H1N1pdm, 5a.2 is outcompeting other subclades with a subclade carrying HA1:142R and HA1:137S mutations driving recent growth. The reassorted H3N2 subclade 2a.2/50K continues to grow rapidly and is now the dominant clade globally.
 ---
 
 # [Recent Vic circulation](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-11-17/vic/2y/cell/hi/ha?d=tree,map,frequencies&f_epiweek=202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202239,202240,202241,202242,202243,202244&p=grid)
@@ -28,11 +28,11 @@ The sample collected in Delaware belongs to a subclade with a HA1:197E mutation 
 # [Since June, 5a.2 has dominated in the USA](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-11-17/h1n1pdm/2y/cell/hi/ha?c=haplotype&d=tree,map,frequencies&f_country=Usa&f_epiweek=202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202239,202240,202241,202242,202243&label=clade:6B.1A.5a.2&p=grid&r=division)
 
 Since June 2022, the USA has sampled much of the extant diversity of 5a.2.
-Subclades with HA1:142R and either HA1:137S or HA1:216A mutations are at the highest frequencies.
+Subclades with HA1:142R and HA1:137S mutations are at the highest frequencies.
 
 # [Models show antigenic advance in recent subclades](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-11-17/h1n1pdm/2y/cell/hi/ha?branchLabel=aa&c=cTiter&d=tree&f_country=Usa&f_epiweek=202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202239,202240,202241,202242,202243&label=clade:6B.1A.5a.2&p=full&r=division)
 
-Recent subclades with the HA1:142R plus 137S or 216A show a 2-fold antigenic advance relative to ancestral clades.
+Recent subclades with the HA1:142R and 137S show a 2-fold antigenic advance relative to ancestral clades.
 
 # [Recent H3N2 circulation](https://nextstrain.org/community/huddlej/seasonal-flu-reports/flu/seasonal/2022-11-17/h3n2/2y/cell/fra/ha?d=tree,map,frequencies&f_epiweek=202223,202224,202225,202226,202227,202228,202229,202230,202231,202232,202233,202234,202235,202236,202237,202238,202239,202240,202241,202242,202243,202244&label=clade:3C.2a1b.2a&p=grid)
 
